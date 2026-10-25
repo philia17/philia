@@ -1,0 +1,309 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="cherish-poster" viewBox="0 0 1080 1920" width="1080" height="1920" role="group" aria-labelledby="cherish-poster-title cherish-poster-desc" lang="en">
+<title id="cherish-poster-title">cherish: my heart, to the end</title>
+<desc id="cherish-poster-desc">philia's korean and english lyric scrapbook for illit's cherish (my love), with three original mv stills, handwritten notes, paper, tape and small drawings. select a photo or highlighted phrase to explore the interpretation.</desc>
+<defs>
+<style>
+@font-face{font-family:cherish-gaegu;src:url('/philia/assets/cherish/Gaegu-Regular.ttf') format('truetype');font-style:normal;font-weight:400;font-display:swap}
+@font-face{font-family:cherish-gaegu;src:url('/philia/assets/cherish/Gaegu-Bold.ttf') format('truetype');font-style:normal;font-weight:700;font-display:swap}
+.cherish-poster text{font-family:cherish-gaegu, sans-serif;letter-spacing:normal}
+.cherish-poster .poster-note,.cherish-poster .poster-photo{cursor:pointer}
+</style>
+<filter id="cherish-photo-shadow" x="-15%" y="-15%" width="135%" height="140%" color-interpolation-filters="sRGB"><feDropShadow dx="3" dy="5" stdDeviation="7" flood-color="#000" flood-opacity=".17"/></filter>
+<pattern id="cherish-paper-grain" patternUnits="userSpaceOnUse" width="64" height="64">
+<circle cx="59.687" cy="36.627" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="23.814" cy="34.045" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="45.063" cy="58.581" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="59.284" cy="32.936" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="41.724" cy="6.192" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="25.217" cy="13.122" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="13.828" cy="37.451" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="54.536" cy="23.636" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="3.592" cy="46.253" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="11.202" cy="49.233" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="45.066" cy="30.041" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="35.445" cy="61.995" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="17.56" cy="7.562" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="26.952" cy="14.419" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="6.124" cy="31.714" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="28.17" cy="58.739" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="50.76" cy="21.377" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="51.949" cy="5.635" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="50.791" cy="25.7" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="25.806" cy="5.85" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="54.922" cy="16.153" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="54.485" cy="10.191" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="58.698" cy="16.521" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="53.774" cy="41.068" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="56.916" cy="58.643" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="19.054" cy="60.345" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="63.011" cy="13.441" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="61.678" cy="52.231" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="48.34" cy="12.87" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="10.006" cy="47.111" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="61.44" cy="47.404" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="14.582" cy="23.092" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="40.777" cy="59.217" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="55.438" cy="40.667" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="26.112" cy="60.571" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="40.135" cy="30.987" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="47.845" cy="43.371" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="31.956" cy="54.558" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="47.502" cy="17.32" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="6.363" cy="35.509" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="2.708" cy="45.327" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="23.571" cy="60.212" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="21.147" cy="36.432" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="36.179" cy="49.51" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="31.769" cy="2.744" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="35.553" cy="4.192" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="32.785" cy="49.36" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="42.581" cy="57.026" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="61.206" cy="40.709" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="54.363" cy="10.758" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="55.735" cy="62.8" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="36.293" cy="47.663" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="51.065" cy="60.335" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="48.351" cy="57.96" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="39.725" cy="57.1" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="2.146" cy="35.62" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="14.611" cy="2.665" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="3.941" cy="5.476" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="13.02" cy="62.594" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="24.394" cy="63.67" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="27.352" cy="60.474" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="44.958" cy="45.176" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="50.254" cy="45.549" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="39.929" cy="8.776" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="0.648" cy="41.195" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="17.527" cy="20.489" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="34.775" cy="4.937" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="28.125" cy="23.394" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="40.676" cy="57.776" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="40.037" cy="27.213" r=".3" fill="#9e8070" fill-opacity=".035"/>
+<circle cx="36.638" cy="36.327" r=".3" fill="#9e8070" fill-opacity=".035"/>
+</pattern></defs>
+<rect width="1080" height="1920" fill="#f8f3ec"/><rect width="1080" height="1920" fill="url(#cherish-paper-grain)" aria-hidden="true"/>
+<g class="poster-backing-paper" aria-hidden="true"><rect x="0" y="0" width="370" height="252" fill="#e4ecec" transform="translate(651 365) rotate(8)"/><rect x="0" y="0" width="730" height="405" fill="#ead9d6" transform="translate(42 496) rotate(-5)"/><rect x="0" y="0" width="363" height="476" fill="#e6ddd4" transform="translate(653 1147) rotate(5)"/></g>
+<text x="64" y="97.48" font-size="48" font-weight="700" fill="#9b5f67" text-anchor="start">
+<tspan x="64" dy="0">아일릿 · 체리시</tspan>
+</text>
+<text x="66" y="132.144" font-size="21.6" font-weight="400" fill="#5d7984" text-anchor="start">
+<tspan x="66" dy="0">illit · cherish (my love)</tspan>
+</text>
+<g class="poster-note" data-note="heart" role="button" tabindex="0" aria-label="explore my heart, to the end" transform="translate(0 0) rotate(0)">
+<rect class="poster-hit" x="50" y="155" width="610" height="290" rx="12" fill="transparent" pointer-events="all"/>
+<text x="55" y="255.4" font-size="115" font-weight="700" fill="#352b29" text-anchor="start">
+<tspan x="55" dy="0">내 마음은</tspan>
+</text>
+<text x="61" y="378.192" font-size="124.2" font-weight="700" fill="#352b29" text-anchor="start">
+<tspan x="61" dy="0">끝까지.</tspan>
+</text>
+<text x="86" y="429.924" font-size="26.1" font-weight="400" fill="#9b5f67" text-anchor="start">
+<tspan x="86" dy="0">my heart, to the end.</tspan>
+</text>
+</g>
+<g class="poster-note" data-note="growing" role="button" tabindex="0" aria-label="explore excitement grows" transform="translate(703 181) rotate(5)">
+<rect class="poster-hit" x="-10" y="-8" width="335" height="160" rx="12" fill="transparent" pointer-events="all"/>
+<text x="0" y="42.88" font-size="63" font-weight="400" fill="#9b5f67" text-anchor="start">
+<tspan x="0" dy="0">설렘은</tspan>
+<tspan x="0" dy="58">자라고</tspan>
+</text>
+<text x="0" y="136.9" font-size="22.5" font-weight="400" fill="#5d7984" text-anchor="start">
+<tspan x="0" dy="0">excitement grows.</tspan>
+</text>
+</g>
+<g class="poster-doodle" aria-hidden="true" transform="translate(600 299)"><path d="M0 -18 L3 -3 L18 0 L3 3 L0 18 L-3 3 L-18 0 L-3 -3 Z" fill="none" stroke="#5d7984" stroke-opacity=".7" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></g>
+<g class="poster-doodle" aria-hidden="true" transform="translate(971 240)"><path d="M0 15 C-27 -3 -10.5 -22.5 0 -6 C12 -24 25.5 -1.5 0 15" fill="none" stroke="#9b5f67" stroke-opacity=".8" stroke-width="2" stroke-linecap="round"/></g>
+<g class="poster-photo" data-photo="garden" role="button" tabindex="0" aria-label="open the flower garden photo" transform="translate(666 407) rotate(7)">
+<g class="photo-float">
+<rect x="-12" y="-12" width="349" height="207" fill="#fffdfc" filter="url(#cherish-photo-shadow)"/>
+<image href="/philia/assets/cherish/mv-0128-frame.png" x="0" y="0" width="325" height="183" preserveAspectRatio="xMidYMid slice"/>
+<rect class="poster-hit" x="-12" y="-12" width="349" height="207" rx="12" fill="transparent" pointer-events="all"/>
+</g></g>
+<g class="poster-tape" transform="translate(766 386) rotate(-3)" aria-hidden="true"><path d="M0 1 L133 0 L135 24 L2 26 Z" fill="#d8c8ac" fill-opacity=".7"/>
+<path d="M7 2 L9 24" fill="none" stroke="#d8c8ac" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M14 2 L16 24" fill="none" stroke="#d8c8ac" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M21 2 L23 24" fill="none" stroke="#d8c8ac" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M28 2 L30 24" fill="none" stroke="#d8c8ac" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M35 2 L37 24" fill="none" stroke="#d8c8ac" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M42 2 L44 24" fill="none" stroke="#d8c8ac" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M49 2 L51 24" fill="none" stroke="#d8c8ac" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M56 2 L58 24" fill="none" stroke="#d8c8ac" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M63 2 L65 24" fill="none" stroke="#d8c8ac" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M70 2 L72 24" fill="none" stroke="#d8c8ac" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M77 2 L79 24" fill="none" stroke="#d8c8ac" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M84 2 L86 24" fill="none" stroke="#d8c8ac" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M91 2 L93 24" fill="none" stroke="#d8c8ac" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M98 2 L100 24" fill="none" stroke="#d8c8ac" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M105 2 L107 24" fill="none" stroke="#d8c8ac" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M112 2 L114 24" fill="none" stroke="#d8c8ac" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M119 2 L121 24" fill="none" stroke="#d8c8ac" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M126 2 L128 24" fill="none" stroke="#d8c8ac" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M133 2 L135 24" fill="none" stroke="#d8c8ac" stroke-opacity=".16" stroke-width=".5"/>
+</g>
+<g class="poster-photo" data-photo="teeth" role="button" tabindex="0" aria-label="open the wisdom teeth photo" transform="translate(69 490) rotate(-4.5)">
+<g class="photo-float">
+<rect x="-12" y="-12" width="674" height="454" fill="#fffdfc" filter="url(#cherish-photo-shadow)"/>
+<image href="/philia/assets/cherish/mv-0111-frame.png" x="0" y="0" width="650" height="366" preserveAspectRatio="xMidYMid slice"/>
+<text x="4" y="405.2" font-size="45" font-weight="400" fill="#5d7984" text-anchor="start">
+<tspan x="4" dy="0">사랑니 속의 우리</tspan>
+</text>
+<text x="4" y="424.144" font-size="21.6" font-weight="400" fill="#5d7984" text-anchor="start">
+<tspan x="4" dy="0">us, inside wisdom teeth</tspan>
+</text>
+<rect class="poster-hit" x="-12" y="-12" width="674" height="454" rx="12" fill="transparent" pointer-events="all"/>
+</g></g>
+<g class="poster-tape" transform="translate(310 462) rotate(1)" aria-hidden="true"><path d="M0 1 L148 0 L150 24 L2 26 Z" fill="#d8b9b9" fill-opacity=".7"/>
+<path d="M7 2 L9 24" fill="none" stroke="#d8b9b9" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M14 2 L16 24" fill="none" stroke="#d8b9b9" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M21 2 L23 24" fill="none" stroke="#d8b9b9" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M28 2 L30 24" fill="none" stroke="#d8b9b9" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M35 2 L37 24" fill="none" stroke="#d8b9b9" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M42 2 L44 24" fill="none" stroke="#d8b9b9" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M49 2 L51 24" fill="none" stroke="#d8b9b9" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M56 2 L58 24" fill="none" stroke="#d8b9b9" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M63 2 L65 24" fill="none" stroke="#d8b9b9" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M70 2 L72 24" fill="none" stroke="#d8b9b9" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M77 2 L79 24" fill="none" stroke="#d8b9b9" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M84 2 L86 24" fill="none" stroke="#d8b9b9" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M91 2 L93 24" fill="none" stroke="#d8b9b9" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M98 2 L100 24" fill="none" stroke="#d8b9b9" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M105 2 L107 24" fill="none" stroke="#d8b9b9" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M112 2 L114 24" fill="none" stroke="#d8b9b9" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M119 2 L121 24" fill="none" stroke="#d8b9b9" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M126 2 L128 24" fill="none" stroke="#d8b9b9" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M133 2 L135 24" fill="none" stroke="#d8b9b9" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M140 2 L142 24" fill="none" stroke="#d8b9b9" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M147 2 L149 24" fill="none" stroke="#d8b9b9" stroke-opacity=".16" stroke-width=".5"/>
+</g>
+<g class="poster-note" data-note="curious" role="button" tabindex="0" aria-label="explore curious about your heart" transform="translate(793 713) rotate(3)">
+<rect class="poster-hit" x="-20" y="-10" width="290" height="165" rx="12" fill="transparent" pointer-events="all"/>
+<text x="0" y="45.08" font-size="70.5" font-weight="400" fill="#5d7984" text-anchor="start">
+<tspan x="0" dy="0">궁금해</tspan>
+</text>
+<path class="poster-quote" d="M 0.395 8.165 C -3.624 6.765, -9 10.865, -13 10.165 C -14.8 18.274, -11.5 27.622, -12.2 33.135" stroke="#5d7984" stroke-width="5.287" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="0" y="109.08" font-size="70.5" font-weight="400" fill="#5d7984" text-anchor="start">
+<tspan x="0" dy="0">너의 맘</tspan>
+</text>
+<path class="poster-quote" d="M 212.04 93.61 C 213.44 105.595, 211.14 112.58, 212.64 118.58 C 208.04 119.88, 202.396 116.88, 198.645 117.58" stroke="#5d7984" stroke-width="5.287" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="18" y="138.144" font-size="21.6" font-weight="400" fill="#9b5f67" text-anchor="start">
+<tspan x="18" dy="0">curious about your heart.</tspan>
+</text>
+</g>
+<g class="poster-note" data-note="three-seconds" role="button" tabindex="0" aria-label="explore only three seconds of worrying" transform="translate(91 978) rotate(-3)">
+<rect class="poster-hit" x="-24" y="-10" width="630" height="115" rx="12" fill="transparent" pointer-events="all"/>
+<text x="0" y="57.12" font-size="87" font-weight="700" fill="#9b5f67" text-anchor="start">
+<tspan x="0" dy="0">고민은 3초만</tspan>
+</text>
+<path class="poster-quote" d="M 3.53 10.31 C -1.429 8.91, -9 13.01, -13 12.31 C -14.8 22.55, -11.5 34.087, -12.2 40.89 M 448.437 36.54 C 449.837 51.33, 447.537 61.12, 449.037 67.12 C 444.437 68.42, 436.535 65.42, 431.907 66.12" stroke="#9b5f67" stroke-width="6.525" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="5" y="81.924" font-size="26.1" font-weight="400" fill="#5d7984" text-anchor="start">
+<tspan x="5" dy="0">only three seconds of worrying.</tspan>
+</text>
+</g>
+<g class="poster-glossary" transform="translate(713 989) rotate(3)">
+<text x="0" y="30.56" font-size="43.5" font-weight="400" fill="#352b29" text-anchor="start">
+<tspan x="0" dy="0">맘 = 마음</tspan>
+</text>
+<text x="0" y="57.9" font-size="22.5" font-weight="400" fill="#5d7984" text-anchor="start">
+<tspan x="0" dy="0">heart / feelings</tspan>
+</text>
+<text x="0" y="113.64" font-size="39" font-weight="400" fill="#9b5f67" text-anchor="start">
+<tspan x="0" dy="0">각오 ·</tspan>
+</text>
+<text x="105" y="105.656" font-size="23.4" font-weight="400" fill="#9b5f67" text-anchor="start">
+<tspan x="105" dy="0">resolve</tspan>
+</text>
+</g>
+<g class="poster-photo" data-photo="heart" role="button" tabindex="0" aria-label="open the shining heart photo" transform="translate(681 1180) rotate(5)">
+<g class="photo-float">
+<rect x="-12" y="-12" width="334" height="444" fill="#fffdfc" filter="url(#cherish-photo-shadow)"/>
+<image href="/philia/assets/cherish/mv-0143-clear-portrait.png" x="0" y="0" width="310" height="356" preserveAspectRatio="xMidYMid slice"/>
+<text x="4" y="395.2" font-size="45" font-weight="400" fill="#5d7984" text-anchor="start">
+<tspan x="4" dy="0">빛나는 내 마음</tspan>
+</text>
+<text x="40" y="414.144" font-size="21.6" font-weight="400" fill="#5d7984" text-anchor="start">
+<tspan x="40" dy="0">my shining heart</tspan>
+</text>
+<rect class="poster-hit" x="-12" y="-12" width="334" height="444" rx="12" fill="transparent" pointer-events="all"/>
+</g></g>
+<g class="poster-tape" transform="translate(777 1155) rotate(-3)" aria-hidden="true"><path d="M0 1 L140 0 L142 24 L2 26 Z" fill="#d7c4bd" fill-opacity=".7"/>
+<path d="M7 2 L9 24" fill="none" stroke="#d7c4bd" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M14 2 L16 24" fill="none" stroke="#d7c4bd" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M21 2 L23 24" fill="none" stroke="#d7c4bd" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M28 2 L30 24" fill="none" stroke="#d7c4bd" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M35 2 L37 24" fill="none" stroke="#d7c4bd" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M42 2 L44 24" fill="none" stroke="#d7c4bd" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M49 2 L51 24" fill="none" stroke="#d7c4bd" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M56 2 L58 24" fill="none" stroke="#d7c4bd" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M63 2 L65 24" fill="none" stroke="#d7c4bd" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M70 2 L72 24" fill="none" stroke="#d7c4bd" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M77 2 L79 24" fill="none" stroke="#d7c4bd" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M84 2 L86 24" fill="none" stroke="#d7c4bd" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M91 2 L93 24" fill="none" stroke="#d7c4bd" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M98 2 L100 24" fill="none" stroke="#d7c4bd" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M105 2 L107 24" fill="none" stroke="#d7c4bd" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M112 2 L114 24" fill="none" stroke="#d7c4bd" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M119 2 L121 24" fill="none" stroke="#d7c4bd" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M126 2 L128 24" fill="none" stroke="#d7c4bd" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M133 2 L135 24" fill="none" stroke="#d7c4bd" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M140 2 L142 24" fill="none" stroke="#d7c4bd" stroke-opacity=".16" stroke-width=".5"/>
+</g>
+<g class="poster-note" data-note="wisdom" role="button" tabindex="0" aria-label="explore wisdom tooth, love and growing pains" transform="translate(78 1166) rotate(-2)">
+<rect class="poster-hit" x="-10" y="-8" width="585" height="205" rx="12" fill="transparent" pointer-events="all"/>
+<text x="0" y="43.24" font-size="61.5" font-weight="400" fill="#352b29" text-anchor="start">
+<tspan x="0" dy="0">사랑니 = 사랑 + 니</tspan>
+</text>
+<text x="5" y="63.144" font-size="21.6" font-weight="400" fill="#5d7984" text-anchor="start">
+<tspan x="5" dy="0">wisdom tooth = love + tooth</tspan>
+</text>
+<text x="5" y="142.12" font-size="49.5" font-weight="400" fill="#9b5f67" text-anchor="start">
+<tspan x="5" dy="0">첫사랑의 설렘과 성장통</tspan>
+</text>
+<text x="5" y="174.9" font-size="22.5" font-weight="400" fill="#5d7984" text-anchor="start">
+<tspan x="5" dy="0">first-love butterflies and growing pains.</tspan>
+</text>
+</g>
+<g class="poster-note" data-note="resolve" role="button" tabindex="0" aria-label="explore my resolve comes first" transform="translate(82 1440) rotate(-3)">
+<rect class="poster-hit" x="-22" y="-10" width="635" height="210" rx="12" fill="transparent" pointer-events="all"/>
+<text x="0" y="47.44" font-size="69" font-weight="400" fill="#352b29" text-anchor="start">
+<tspan x="0" dy="0">네 맘은 두 번째</tspan>
+</text>
+<path class="poster-quote" d="M 0.11 7.97 C -3.823 6.57, -9 10.67, -13 9.97 C -14.8 17.885, -11.5 27.034, -12.2 32.43 M 435.42 28.98 C 436.82 40.71, 434.52 47.44, 436.02 53.44 C 431.42 54.74, 425.981 51.74, 422.31 52.44" stroke="#352b29" stroke-width="5.175" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="-4" y="97" width="550" height="60" fill="#e6c9cb" fill-opacity=".45"/>
+<text x="0" y="141.44" font-size="69" font-weight="400" fill="#352b29" text-anchor="start">
+<tspan x="0" dy="0">내 각오가 첫 번째</tspan>
+</text>
+<path class="poster-quote" d="M 0.11 101.97 C -3.823 100.57, -9 104.67, -13 103.97 C -14.8 111.885, -11.5 121.034, -12.2 126.43 M 492 122.98 C 493.4 134.71, 491.1 141.44, 492.6 147.44 C 488 148.74, 482.561 145.74, 478.89 146.44" stroke="#352b29" stroke-width="5.175" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="5" y="76.9" font-size="22.5" font-weight="400" fill="#5d7984" text-anchor="start">
+<tspan x="5" dy="0">your feelings come second.</tspan>
+</text>
+<text x="20" y="179.9" font-size="22.5" font-weight="400" fill="#5d7984" text-anchor="start">
+<tspan x="20" dy="0">my resolve comes first.</tspan>
+</text>
+</g>
+<g class="poster-repetition">
+<text x="85" y="1720.84" font-size="46.5" font-weight="400" fill="#352b29" text-anchor="start">
+<tspan x="85" dy="0">반복에서 결심으로</tspan>
+</text>
+<text x="103" y="1756.144" font-size="21.6" font-weight="400" fill="#5d7984" text-anchor="start">
+<tspan x="103" dy="0">repetition</tspan>
+</text>
+<path d="M198.342 1751 C206.342 1748 217.342 1752 226.342 1749 M220.342 1745 C222.342 1747 224.342 1748 227.342 1749 C225.342 1751 222.342 1754 220.342 1755" fill="none" stroke="#5d7984" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="239.342" y="1756.144" font-size="21.6" font-weight="400" fill="#5d7984" text-anchor="start">
+<tspan x="239.342" dy="0">resolve.</tspan>
+</text>
+</g>
+<g class="poster-note" data-note="protect" role="button" tabindex="0" aria-label="explore protect my feelings, right to the end" transform="translate(0 0) rotate(0)">
+<rect class="poster-hit" x="68" y="1775" width="944" height="105" rx="12" fill="transparent" pointer-events="all"/>
+<text x="540" y="1822.88" font-size="63" font-weight="400" fill="#9b5f67" text-anchor="middle">
+<tspan x="540" dy="0">절대 끝까지 지켜! 내 감정</tspan>
+</text>
+<path class="poster-quote" d="M 213.732 1787.19 C 210.141 1785.79, 205.762 1789.89, 201.762 1789.19 C 199.962 1796.33, 203.262 1804.683, 202.562 1809.61 M 874.237 1806.46 C 875.637 1817.17, 873.337 1822.88, 874.837 1828.88 C 870.237 1830.18, 865.619 1827.18, 862.267 1827.88" stroke="#9b5f67" stroke-width="4.725" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="540" y="1862.9" font-size="22.5" font-weight="400" fill="#5d7984" text-anchor="middle">
+<tspan x="540" dy="0">protect my feelings, right to the end.</tspan>
+</text>
+</g>
+<text x="540" y="1909.12" font-size="18" font-weight="400" fill="#5d7984" text-anchor="middle">
+<tspan x="540" dy="0">fan interpretation · mv © belift lab</tspan>
+</text>
+</svg>

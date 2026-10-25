@@ -1,0 +1,13 @@
+.bubble-gum-page { --ink: #345d4d; --muted: #6c7e6a; --line: #d6dec9; --paper: #f5f7eb; --cherish-rose: #b96a65; --cherish-blue: #627d6d; --poster-accent: #b6c68d; background: #f5f7eb; }
+.bubble-gum-page .poster-stage { background: #f0f5df; border-color: #d6dfc5; box-shadow: 0 8px 28px #345d4d10; }
+.bubble-gum-page .poster-stage [role="button"]:focus-visible { outline-color: #627d6d80; }
+.bubble-gum-page .poster-word:hover, .bubble-gum-page .poster-word:focus-visible { text-decoration-color: #627d6d80; }
+.bubble-gum-page .poster-stage .poster-note, .bubble-gum-page .poster-stage .poster-photo { cursor: default; }
+.bubble-gum-page [data-photo="flowers"] .photo-float { animation-duration: 8.5s; animation-delay: -3s; }
+.bubble-gum-page [data-photo="sea"] .photo-float { animation-duration: 9.5s; animation-delay: -5s; }
+.bubble-gum-page .burst-message { background: radial-gradient(ellipse, #f0f5dff5 40%, #f0f5dfb8 68%, #f0f5df00 75%); }
+.bubble-gum-page .is-vocabulary .burst-message { background: #f0f5dffa; box-shadow: 0 4px 16px 6px #f0f5dfc7; }
+.bubble-gum-page .burst-english { text-shadow: 0 1px 3px #f0f5df; }
+.bubble-gum-page .burst-usage, .bubble-gum-page .burst-translation { color: #486452; }
+.bubble-gum-page .burst-dismiss-hint { color: #6c7e6a; }
+.bubble-gum-page .burst-doodle:nth-child(3n + 1) { color: #b6c68d; }

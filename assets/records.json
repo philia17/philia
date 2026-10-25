@@ -1,0 +1,78 @@
+[
+  {
+    "id": "bubble-gum",
+    "title": "bubble gum",
+    "artist": "newjeans",
+    "memory": "jeju trip, 2026.",
+    "place": "jeju",
+    "year": "2026",
+    "url": "https://open.spotify.com/track/19D8LNpWwIPpi6hs9BG7dq",
+    "cover": "/philia/assets/covers/bubble-gum.jpg",
+    "coverSource": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e02b657fbb27b17e7bd4691c2b2"
+  },
+  {
+    "id": "deja-vu",
+    "title": "deja vu",
+    "artist": "rescene",
+    "memory": "gwangju trip, 2026.",
+    "place": "gwangju",
+    "year": "2026",
+    "url": "https://open.spotify.com/track/1pBUzZE9PoKLoPxo6QxsG6",
+    "cover": "/philia/assets/covers/deja-vu.jpg",
+    "coverSource": "https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e022d3d7a09566b6d612c890824"
+  },
+  {
+    "id": "pas-fait-expres",
+    "title": "pas fait exprès",
+    "artist": "liv del estal",
+    "memory": "",
+    "url": "https://open.spotify.com/track/2myBHeUe0z2WrdtEtOAA5s",
+    "cover": "/philia/assets/covers/pas-fait-expres.jpg",
+    "coverSource": "https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e02ba8ca2f599bb1fc86c636741"
+  },
+  {
+    "id": "mood",
+    "title": "mood",
+    "artist": "dpr ian",
+    "memory": "",
+    "url": "https://open.spotify.com/track/0nEsLR5KTySCO9CfyC2yjg",
+    "cover": "/philia/assets/covers/mood.jpg",
+    "coverSource": "https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e028ac536a8b7cdb157509399a7"
+  },
+  {
+    "id": "comment-te-dire-adieu",
+    "title": "comment te dire adieu",
+    "artist": "françoise hardy",
+    "memory": "",
+    "url": "https://open.spotify.com/track/6g5qyQrAcoBX4X7XjxBoTO",
+    "cover": "/philia/assets/covers/comment-te-dire-adieu.jpg",
+    "coverSource": "https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e02a3f0e9f20bfbdd1ab8752e39"
+  },
+  {
+    "id": "whats-the-time",
+    "title": "what's the time where you are?",
+    "artist": "troye sivan",
+    "memory": "",
+    "url": "https://open.spotify.com/track/59YBrPjeMjJtcdpcfL9nVh",
+    "cover": "/philia/assets/covers/whats-the-time.jpg",
+    "coverSource": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e0298be15f6b2981fc1df00ebfa"
+  },
+  {
+    "id": "electric-eye",
+    "title": "electric eye",
+    "artist": "judas priest",
+    "memory": "",
+    "url": "https://open.spotify.com/track/3w9zHVKI28aUPZTxq8oDC6",
+    "cover": "/philia/assets/covers/electric-eye.jpg",
+    "coverSource": "https://image-cdn-ak.spotifycdn.com/image/ab67616d00001e02475bd4fb40ba687fbf002c82"
+  },
+  {
+    "id": "fake-love",
+    "title": "fake love",
+    "artist": "bts",
+    "memory": "",
+    "url": "https://open.spotify.com/track/6m1TWFMeon7ai9XLOzdbiR",
+    "cover": "/philia/assets/covers/fake-love.jpg",
+    "coverSource": "https://image-cdn-fa.spotifycdn.com/image/ab67616d00001e02a274bd961be8afb88d0d5c54"
+  }
+]

@@ -1,0 +1,226 @@
+{
+  "뉴진스": {
+    "meaning": "newjeans, written in korean",
+    "usage": "the korean spelling of the artist name newjeans.",
+    "example": "뉴진스의 새 노래를 들어 봤어요.",
+    "translation": "i listened to a new newjeans song.",
+    "emoji": "🎧"
+  },
+  "버블검": {
+    "meaning": "bubble gum, written in korean",
+    "usage": "the korean rendering of the english song title “bubble gum.”",
+    "example": "버블검이라는 노래를 좋아해요.",
+    "translation": "i like the song called bubble gum.",
+    "emoji": "🫧"
+  },
+  "향기가": {
+    "meaning": "scent; fragrance",
+    "usage": "향기 means “scent”; 가 marks it as the subject after this vowel-final noun.",
+    "example": "방 안에 꽃 향기가 가득해요.",
+    "translation": "the room is full of the scent of flowers.",
+    "emoji": "🌸"
+  },
+  "먼저": {
+    "meaning": "first; before anything else",
+    "usage": "an adverb meaning “first” or “before”; it can modify a verb or clause.",
+    "example": "먼저 숙제를 하고 나서 쉬었어요.",
+    "translation": "i finished my homework first and then rested.",
+    "emoji": "⏳"
+  },
+  "마음은": {
+    "meaning": "heart; mind; feelings",
+    "usage": "마음 means 'heart' or 'mind'; 은 marks it as the topic after a consonant.",
+    "example": "마음은 고맙지만 선물은 괜찮아요.",
+    "translation": "i appreciate the thought, but the gift isn't necessary.",
+    "emoji": "💛"
+  },
+  "더": {
+    "meaning": "more; farther",
+    "usage": "an adverb that means “more” or “further,” depending on what it modifies.",
+    "example": "오늘은 어제보다 더 따뜻해요.",
+    "translation": "it is warmer today than yesterday.",
+    "emoji": "➕"
+  },
+  "멀리": {
+    "meaning": "far; far away",
+    "usage": "an adverb formed from 멀다 (“to be far”); it describes distance or direction.",
+    "example": "우리는 바다가 보이는 곳까지 멀리 걸었어요.",
+    "translation": "we walked far, to a place where the sea was visible.",
+    "emoji": "🌊"
+  },
+  "향기로": {
+    "meaning": "by scent; with fragrance",
+    "usage": "향기 means 'scent'; 로 marks a means or manner, here the way a memory returns.",
+    "example": "익숙한 향기로 오래전 기억이 떠올랐어요.",
+    "translation": "a familiar scent brought back an old memory.",
+    "emoji": "🌸"
+  },
+  "남은": {
+    "meaning": "remaining; left over",
+    "usage": "the past attributive form of 남다 (“to remain”), placed before a noun.",
+    "example": "남은 시간을 책을 읽으며 보냈어요.",
+    "translation": "i spent the remaining time reading.",
+    "emoji": "📖"
+  },
+  "순간": {
+    "meaning": "moment; instant",
+    "usage": "a noun for a very brief point in time.",
+    "example": "문이 열리는 순간 모두 웃었어요.",
+    "translation": "everyone laughed the moment the door opened.",
+    "emoji": "⚡"
+  },
+  "닿는": {
+    "meaning": "that touches; that reaches",
+    "usage": "닿다 (“to touch/reach”) plus the present attributive ending 는, before a noun.",
+    "example": "손끝에 닿는 바람이 시원했어요.",
+    "translation": "the breeze touching my fingertips felt cool.",
+    "emoji": "🤲"
+  },
+  "설렘": {
+    "meaning": "excitement; flutter of anticipation",
+    "usage": "a noun for a bright, fluttery feeling of anticipation.",
+    "example": "여행을 앞두고 설렘이 커졌어요.",
+    "translation": "my excitement grew as the trip approached.",
+    "emoji": "🦋"
+  },
+  "오늘": {
+    "meaning": "today",
+    "usage": "a time noun meaning “today.”",
+    "example": "오늘은 일찍 집에 갈 거예요.",
+    "translation": "i will go home early today.",
+    "emoji": "☀️"
+  },
+  "오래": {
+    "meaning": "for a long time",
+    "usage": "an adverb describing something that lasts a long time.",
+    "example": "오래 기다려 준 친구에게 고마웠어요.",
+    "translation": "i was grateful to the friend who waited a long time.",
+    "emoji": "⌛"
+  },
+  "걸린": {
+    "meaning": "that took; that required",
+    "usage": "the past attributive form of 걸리다, used for time or effort taken.",
+    "example": "오래 걸린 준비 끝에 행사가 시작됐어요.",
+    "translation": "the event began after preparations that took a long time.",
+    "emoji": "🕰️"
+  },
+  "이유": {
+    "meaning": "reason; cause",
+    "usage": "a noun naming why something happens or is done.",
+    "example": "그가 늦은 이유를 나중에 알았어요.",
+    "translation": "i learned later why he was late.",
+    "emoji": "🔎"
+  },
+  "내": {
+    "meaning": "my",
+    "usage": "a short form of 나의, meaning 'my'; it comes before a noun.",
+    "example": "내 책은 책상 위에 있어요.",
+    "translation": "my book is on the desk.",
+    "emoji": "🙋"
+  },
+  "널": {
+    "meaning": "you; you as the object",
+    "usage": "a contracted form of 너를: 너 (“you”) plus the object particle 를.",
+    "example": "널 만나서 정말 반가웠어.",
+    "translation": "i was really glad to meet you.",
+    "emoji": "💌"
+  },
+  "찾아가": {
+    "meaning": "go to find; go and reach",
+    "usage": "찾다 (“to look for”) combines with 가다 (“to go”), here meaning to go and find or reach a place.",
+    "example": "우리는 지도를 보며 작은 카페를 찾아가요.",
+    "translation": "we follow the map to find a small cafe.",
+    "emoji": "🧭"
+  },
+  "향기": {
+    "meaning": "scent; fragrance",
+    "usage": "a noun meaning the smell of something, often pleasant.",
+    "example": "비 온 뒤 풀의 향기가 진해졌어요.",
+    "translation": "the scent of grass grew stronger after the rain.",
+    "emoji": "🌿"
+  },
+  "거품": {
+    "meaning": "bubble; foam",
+    "usage": "a noun for bubbles or foam formed in a liquid.",
+    "example": "비누를 문지르자 거품이 생겼어요.",
+    "translation": "foam appeared when i rubbed the soap.",
+    "emoji": "🫧"
+  },
+  "속에": {
+    "meaning": "inside; within",
+    "usage": "속 (“inside”) plus 에, marking a location.",
+    "example": "가방 속에 작은 수첩이 있어요.",
+    "translation": "there is a small notebook inside the bag.",
+    "emoji": "🎒"
+  },
+  "숨었네": {
+    "meaning": "hid; is hidden",
+    "usage": "숨다 (“to hide”) plus past -었- and sentence-ending 네, which can express noticing or realizing something.",
+    "example": "고양이가 상자 안에 숨었네.",
+    "translation": "the cat has hidden inside the box.",
+    "emoji": "🐈"
+  },
+  "눈": {
+    "meaning": "eye; eyes",
+    "usage": "a noun meaning “eye”; in 눈을 감다, it refers to closing one’s eyes.",
+    "example": "눈을 감고 잠깐 쉬었어요.",
+    "translation": "i closed my eyes and rested for a moment.",
+    "emoji": "👀"
+  },
+  "감아도": {
+    "meaning": "even if one closes (their eyes)",
+    "usage": "감다 (“to close,” as in eyes) plus -아도, “even if/even when.”",
+    "example": "눈을 감아도 파도 소리가 들려요.",
+    "translation": "even with my eyes closed, i can hear the waves.",
+    "emoji": "😌"
+  },
+  "기억나게": {
+    "meaning": "so that it is remembered; so someone remembers",
+    "usage": "기억나다 (“to come to mind/be remembered”) plus -게, marking a result or purpose (“so that”).",
+    "example": "그날 일이 기억나게 사진을 꺼내 봤어요.",
+    "translation": "i took out a photo so i could remember what happened that day.",
+    "emoji": "🧠"
+  },
+  "어디라도": {
+    "meaning": "anywhere; wherever",
+    "usage": "어디 (“where”) plus 라도, giving an open “anywhere” meaning.",
+    "example": "시간이 나면 어디라도 함께 가요.",
+    "translation": "if we have time, let’s go anywhere together.",
+    "emoji": "🗺️"
+  },
+  "따라갈래": {
+    "meaning": "i want to follow; i’ll follow",
+    "usage": "따라가다 (“to follow/go along”) plus -ㄹ래, an informal ending for intention or willingness.",
+    "example": "나는 친구와 함께 공원까지 따라갈래.",
+    "translation": "i’ll go along with my friend as far as the park.",
+    "emoji": "🚶"
+  },
+  "기억나다": {
+    "meaning": "come to mind; be remembered",
+    "usage": "a verb meaning that something is recalled or comes to mind.",
+    "example": "그 노래를 들으니 옛날 일이 기억나요.",
+    "translation": "hearing that song brings back old memories.",
+    "emoji": "💭"
+  },
+  "따라가": {
+    "meaning": "follow; go along",
+    "usage": "the casual non-polite present form of 따라가다 (“to follow/go along”); it can also connect to what comes next.",
+    "example": "천천히 걸어서 친구를 따라가요.",
+    "translation": "i walk slowly and follow my friend.",
+    "emoji": "👣"
+  },
+  "날리다": {
+    "meaning": "send flying; scatter",
+    "usage": "a verb meaning to make something fly away or scatter.",
+    "example": "아이들이 종이비행기를 바람에 날렸어요.",
+    "translation": "the children sent paper airplanes flying in the wind.",
+    "emoji": "🍃"
+  },
+  "날려줘": {
+    "meaning": "send it flying for me; please let it fly",
+    "usage": "날리다 (“to send flying”) becomes 날려 before 줘, a casual request to do it for the speaker.",
+    "example": "창문을 열고 종이비행기를 날려 줘.",
+    "translation": "open the window and send the paper airplane flying for me.",
+    "emoji": "🕊️"
+  }
+}

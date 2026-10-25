@@ -1,0 +1,86 @@
+{
+  "reference_poster": "cherish-handwritten-bilingual-phone-v7.png",
+  "reference_renderer": "render_poster_bilingual_v7.swift",
+  "viewBox": [
+    0,
+    0,
+    1080,
+    1920
+  ],
+  "official_mv": "https://www.youtube.com/watch?v=tbDGl7jEazA",
+  "photos": [
+    {
+      "key": "teeth",
+      "file": "mv-0111-frame.png",
+      "source_size": [
+        980,
+        551
+      ],
+      "time_seconds": 71.007866,
+      "poster_rect": [
+        69,
+        490,
+        650,
+        366
+      ],
+      "rotation_degrees": -4.5
+    },
+    {
+      "key": "garden",
+      "file": "mv-0128-frame.png",
+      "source_size": [
+        980,
+        551
+      ],
+      "time_seconds": 88.007868,
+      "poster_rect": [
+        666,
+        407,
+        325,
+        183
+      ],
+      "rotation_degrees": 7
+    },
+    {
+      "key": "heart",
+      "file": "mv-0143-clear-portrait.png",
+      "source_size": [
+        480,
+        551
+      ],
+      "time_seconds": 103.028407,
+      "poster_rect": [
+        681,
+        1180,
+        310,
+        356
+      ],
+      "rotation_degrees": 5
+    }
+  ],
+  "notes": [
+    "heart",
+    "growing",
+    "curious",
+    "three-seconds",
+    "wisdom",
+    "resolve",
+    "protect"
+  ],
+  "fonts": {
+    "family": "gaegu",
+    "files": [
+      "Gaegu-Regular.ttf",
+      "Gaegu-Bold.ttf"
+    ],
+    "license": "OFL.txt"
+  },
+  "differences": [
+    "Authored English copy is lowercased; Korean copy and original photo pixels are retained.",
+    "Native SVG text uses explicit baselines approximating AppKit paragraph layout; browser shaping and fallback glyphs may differ by a few pixels.",
+    "The source uses 36,000 deterministic paper-grain dots; this SVG uses a small repeating native dot pattern.",
+    "Shadow is implemented with feDropShadow instead of AppKit NSShadow.",
+    "All hand-drawn quote marks remain individual vector paths.",
+    "No JavaScript, CSS animation, or photo manipulation is included."
+  ]
+}

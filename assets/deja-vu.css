@@ -1,0 +1,13 @@
+.deja-vu-page { --ink: #303d61; --muted: #747f97; --line: #d8ddeb; --paper: #f4f5f9; --cherish-rose: #a96249; --cherish-blue: #586d9b; --poster-accent: #ac9bc7; background: #f4f5f9; }
+.deja-vu-page .poster-stage { background: #eef1f9; border-color: #d7ddec; box-shadow: 0 8px 28px #303d6110; }
+.deja-vu-page .poster-stage [role="button"]:focus-visible { outline-color: #586d9b80; }
+.deja-vu-page .poster-word:hover, .deja-vu-page .poster-word:focus-visible { text-decoration-color: #586d9b80; }
+.deja-vu-page .poster-stage .poster-note, .deja-vu-page .poster-stage .poster-photo { cursor: default; }
+.deja-vu-page [data-photo="breeze"] .photo-float { animation-duration: 8.5s; animation-delay: -3s; }
+.deja-vu-page [data-photo="train"] .photo-float { animation-duration: 9.5s; animation-delay: -5s; }
+.deja-vu-page .burst-message { background: radial-gradient(ellipse, #eef1f9f5 40%, #eef1f9b8 68%, #eef1f900 75%); }
+.deja-vu-page .is-vocabulary .burst-message { background: #eef1f9fa; box-shadow: 0 4px 16px 6px #eef1f9c7; }
+.deja-vu-page .burst-english { text-shadow: 0 1px 3px #eef1f9; }
+.deja-vu-page .burst-usage, .deja-vu-page .burst-translation { color: #465574; }
+.deja-vu-page .burst-dismiss-hint { color: #747f97; }
+.deja-vu-page .burst-doodle:nth-child(3n + 1) { color: #ac9bc7; }

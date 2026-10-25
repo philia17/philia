@@ -1,0 +1,295 @@
+<svg xmlns="http://www.w3.org/2000/svg" class="cherish-poster deja-vu-poster" viewBox="0 0 1080 1920" width="1080" height="1920" role="group" aria-labelledby="deja-vu-poster-title deja-vu-poster-desc" lang="en">
+<title id="deja-vu-poster-title">deja vu: a memory brought back by a scent</title>
+<desc id="deja-vu-poster-desc">philia's korean and english lyric scrapbook for rescene's deja vu. a blue and orange handwritten collage of breeze, scent, dreams and recurring memories, with three original mv stills and hand-drawn lyric corner marks.</desc>
+<defs>
+<style>
+@font-face{font-family:deja-vu-gaegu;src:url('/philia/assets/deja-vu/Gaegu-Regular.ttf') format('truetype');font-style:normal;font-weight:400;font-display:swap}
+@font-face{font-family:deja-vu-gaegu;src:url('/philia/assets/deja-vu/Gaegu-Bold.ttf') format('truetype');font-style:normal;font-weight:700;font-display:swap}
+.deja-vu-poster text{font-family:deja-vu-gaegu,sans-serif;letter-spacing:normal}
+.deja-vu-poster .poster-note,.deja-vu-poster .poster-photo{cursor:pointer}
+</style>
+<filter id="deja-vu-photo-shadow" x="-15%" y="-15%" width="135%" height="140%" color-interpolation-filters="sRGB"><feDropShadow dx="3" dy="5" stdDeviation="7" flood-color="#000" flood-opacity=".16"/></filter>
+<pattern id="deja-vu-paper-grain" patternUnits="userSpaceOnUse" width="64" height="64">
+<circle cx="59.687" cy="36.627" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="23.814" cy="34.045" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="45.063" cy="58.581" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="59.284" cy="32.936" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="41.724" cy="6.192" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="25.217" cy="13.122" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="13.828" cy="37.451" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="54.536" cy="23.636" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="3.592" cy="46.253" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="11.202" cy="49.233" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="45.066" cy="30.041" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="35.445" cy="61.995" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="17.56" cy="7.562" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="26.952" cy="14.419" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="6.124" cy="31.714" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="28.17" cy="58.739" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="50.76" cy="21.377" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="51.949" cy="5.635" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="50.791" cy="25.7" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="25.806" cy="5.85" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="54.922" cy="16.153" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="54.485" cy="10.191" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="58.698" cy="16.521" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="53.774" cy="41.068" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="56.916" cy="58.643" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="19.054" cy="60.345" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="63.011" cy="13.441" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="61.678" cy="52.231" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="48.34" cy="12.87" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="10.006" cy="47.111" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="61.44" cy="47.404" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="14.582" cy="23.092" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="40.777" cy="59.217" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="55.438" cy="40.667" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="26.112" cy="60.571" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="40.135" cy="30.987" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="47.845" cy="43.371" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="31.956" cy="54.558" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="47.502" cy="17.32" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="6.363" cy="35.509" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="2.708" cy="45.327" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="23.571" cy="60.212" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="21.147" cy="36.432" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="36.179" cy="49.51" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="31.769" cy="2.744" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="35.553" cy="4.192" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="32.785" cy="49.36" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="42.581" cy="57.026" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="61.206" cy="40.709" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="54.363" cy="10.758" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="55.735" cy="62.8" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="36.293" cy="47.663" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="51.065" cy="60.335" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="48.351" cy="57.96" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="39.725" cy="57.1" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="2.146" cy="35.62" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="14.611" cy="2.665" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="3.941" cy="5.476" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="13.02" cy="62.594" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="24.394" cy="63.67" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="27.352" cy="60.474" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="44.958" cy="45.176" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="50.254" cy="45.549" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="39.929" cy="8.776" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="0.648" cy="41.195" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="17.527" cy="20.489" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="34.775" cy="4.937" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="28.125" cy="23.394" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="40.676" cy="57.776" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="40.037" cy="27.213" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+<circle cx="36.638" cy="36.327" r=".3" fill="#7e89ac" fill-opacity=".035"/>
+</pattern></defs>
+<rect width="1080" height="1920" fill="#eef1f9"/><rect width="1080" height="1920" fill="url(#deja-vu-paper-grain)" aria-hidden="true"/>
+<g class="poster-heading" data-entrance-group="heading" transform="translate(0 0) rotate(0)">
+<text x="63" y="91.48" font-size="48" font-weight="700" fill="#586d9b" text-anchor="start"><tspan x="63" y="91.48">리센느 · 데자뷔</tspan></text>
+<text x="66" y="127.144" font-size="21.6" font-weight="400" fill="#a96249" text-anchor="start"><tspan x="66" y="127.144">rescene · deja vu</tspan></text>
+<text x="57" y="249.368" font-size="94.3" font-weight="700" fill="#303d61" text-anchor="start"><tspan x="57" y="249.368">향기로 돌아온</tspan></text>
+<text x="66" y="362.988" font-size="100.05" font-weight="700" fill="#303d61" text-anchor="start"><tspan x="66" y="362.988">그날의 기억</tspan></text>
+<text x="79" y="410.656" font-size="23.4" font-weight="400" fill="#a96249" text-anchor="start"><tspan x="79" y="410.656">the memory of that day, brought back by a scent.</tspan></text>
+</g>
+<g class="poster-note" data-entrance-group="back-then" transform="translate(793 192) rotate(6)" data-note="back-then" role="button" tabindex="0" aria-label="explore back to then">
+<rect class="poster-hit" x="-8" y="-8" width="255" height="143" rx="10" fill="transparent" pointer-events="all"/>
+<text x="0" y="39.76" font-size="51" font-weight="400" fill="#586d9b" text-anchor="start"><tspan x="0" y="39.76">다시,</tspan></text>
+<text x="0" y="91.76" font-size="51" font-weight="400" fill="#586d9b" text-anchor="start"><tspan x="0" y="91.76">그때로</tspan></text>
+<text x="4" y="124.632" font-size="19.8" font-weight="400" fill="#a96249" text-anchor="start"><tspan x="4" y="124.632">back to then.</tspan></text>
+</g>
+<g class="poster-doodle" data-entrance-group="wind" transform="translate(0 0) rotate(0)">
+<path d="M762 380 C860 352 930 443 1012 414" fill="none" stroke="#586d9b" stroke-opacity=".52" stroke-width="1.7" stroke-linecap="round"/>
+<path d="M1010 351 L1013 360 L1022 363 L1013 366 L1010 375 L1007 366 L998 363 L1007 360 Z" fill="none" stroke="#586d9b" stroke-opacity=".7" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g class="poster-backing-paper" data-photo-for="breeze" transform="translate(693 492) rotate(7)" aria-hidden="true"><rect width="318" height="241" fill="#d9d4ed"/></g>
+<g class="poster-backing-paper" data-photo-for="portrait" transform="translate(63 487) rotate(-5)" aria-hidden="true"><rect width="605" height="389" fill="#d1dbee"/></g>
+<g class="poster-photo" data-entrance-group="photo-breeze" transform="translate(704 514) rotate(7)" data-photo="breeze" role="button" tabindex="0" aria-label="open where the breeze stays">
+<g class="photo-float">
+<rect x="-12" y="-12" width="314" height="243" fill="#f9fafe" filter="url(#deja-vu-photo-shadow)"/>
+<image href="/philia/assets/deja-vu/mv-0035-frame.png" width="290" height="163" preserveAspectRatio="xMidYMid slice"/>
+<text x="5" y="195.36" font-size="36" font-weight="400" fill="#586d9b" text-anchor="start"><tspan x="5" y="195.36">바람이 머무는 곳</tspan></text>
+<text x="18" y="219.632" font-size="19.8" font-weight="400" fill="#586d9b" text-anchor="start"><tspan x="18" y="219.632">where the breeze stays.</tspan></text>
+<rect class="poster-hit" x="-12" y="-12" width="314" height="243" rx="10" fill="transparent" pointer-events="all"/>
+</g></g>
+<g class="poster-tape" data-photo-for="breeze" transform="translate(779 502) rotate(-4)" aria-hidden="true"><path d="M0 1 L114 0 L116 24 L2 26 Z" fill="#c6b9d8" fill-opacity=".7"/>
+<path d="M7 2 L9 24" fill="none" stroke="#c6b9d8" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M14 2 L16 24" fill="none" stroke="#c6b9d8" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M21 2 L23 24" fill="none" stroke="#c6b9d8" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M28 2 L30 24" fill="none" stroke="#c6b9d8" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M35 2 L37 24" fill="none" stroke="#c6b9d8" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M42 2 L44 24" fill="none" stroke="#c6b9d8" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M49 2 L51 24" fill="none" stroke="#c6b9d8" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M56 2 L58 24" fill="none" stroke="#c6b9d8" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M63 2 L65 24" fill="none" stroke="#c6b9d8" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M70 2 L72 24" fill="none" stroke="#c6b9d8" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M77 2 L79 24" fill="none" stroke="#c6b9d8" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M84 2 L86 24" fill="none" stroke="#c6b9d8" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M91 2 L93 24" fill="none" stroke="#c6b9d8" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M98 2 L100 24" fill="none" stroke="#c6b9d8" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M105 2 L107 24" fill="none" stroke="#c6b9d8" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M112 2 L114 24" fill="none" stroke="#c6b9d8" stroke-opacity=".16" stroke-width=".5"/>
+</g>
+<g class="poster-photo" data-entrance-group="photo-portrait" transform="translate(76 487) rotate(-4)" data-photo="portrait" role="button" tabindex="0" aria-label="open the face i first glimpsed">
+<g class="photo-float">
+<rect x="-12" y="-12" width="594" height="401" fill="#f9fafe" filter="url(#deja-vu-photo-shadow)"/>
+<image href="/philia/assets/deja-vu/mv-0019-frame.png" width="570" height="321" preserveAspectRatio="xMidYMid slice"/>
+<text x="5" y="353.36" font-size="36" font-weight="400" fill="#586d9b" text-anchor="start"><tspan x="5" y="353.36">처음 스친 얼굴</tspan></text>
+<text x="18" y="377.632" font-size="19.8" font-weight="400" fill="#586d9b" text-anchor="start"><tspan x="18" y="377.632">the face i first glimpsed.</tspan></text>
+<rect class="poster-hit" x="-12" y="-12" width="594" height="401" rx="10" fill="transparent" pointer-events="all"/>
+</g></g>
+<g class="poster-tape" data-photo-for="portrait" transform="translate(282 460) rotate(-2)" aria-hidden="true"><path d="M0 1 L137 0 L139 24 L2 26 Z" fill="#b9cbe3" fill-opacity=".7"/>
+<path d="M7 2 L9 24" fill="none" stroke="#b9cbe3" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M14 2 L16 24" fill="none" stroke="#b9cbe3" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M21 2 L23 24" fill="none" stroke="#b9cbe3" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M28 2 L30 24" fill="none" stroke="#b9cbe3" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M35 2 L37 24" fill="none" stroke="#b9cbe3" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M42 2 L44 24" fill="none" stroke="#b9cbe3" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M49 2 L51 24" fill="none" stroke="#b9cbe3" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M56 2 L58 24" fill="none" stroke="#b9cbe3" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M63 2 L65 24" fill="none" stroke="#b9cbe3" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M70 2 L72 24" fill="none" stroke="#b9cbe3" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M77 2 L79 24" fill="none" stroke="#b9cbe3" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M84 2 L86 24" fill="none" stroke="#b9cbe3" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M91 2 L93 24" fill="none" stroke="#b9cbe3" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M98 2 L100 24" fill="none" stroke="#b9cbe3" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M105 2 L107 24" fill="none" stroke="#b9cbe3" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M112 2 L114 24" fill="none" stroke="#b9cbe3" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M119 2 L121 24" fill="none" stroke="#b9cbe3" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M126 2 L128 24" fill="none" stroke="#b9cbe3" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M133 2 L135 24" fill="none" stroke="#b9cbe3" stroke-opacity=".16" stroke-width=".5"/>
+</g>
+<g class="poster-note" data-entrance-group="lyric-breeze" transform="translate(87 879) rotate(0)" data-note="breeze" role="button" tabindex="0" aria-label="explore carried on the breeze, once more">
+<rect class="poster-hit" x="-24" y="-9" width="610" height="84.32" rx="10" fill="transparent" pointer-events="all"/>
+<path class="poster-quote" data-quote-corner="open" d="M-2.455 6.215 C-5.619 4.815 -9 8.915 -13 8.215 C-14.8 14.386 -11.5 21.745 -12.2 26.085" fill="none" stroke="#586d9b" stroke-width="4.162" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="0" y="40.7" font-size="55.5" font-weight="400" fill="#586d9b" text-anchor="start"><tspan x="0" y="40.7">바람결에 실려 다시</tspan></text>
+<path class="poster-quote" data-quote-corner="close" d="M419.7 23.31 C421.1 32.745 418.8 37.18 420.3 43.18 C415.7 44.48 412.108 41.48 409.155 42.18" fill="none" stroke="#586d9b" stroke-width="4.162" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="9" y="70.708" font-size="20.7" font-weight="400" fill="#586d9b" text-anchor="start"><tspan x="9" y="70.708">carried on the breeze, once more.</tspan></text>
+</g>
+<g class="poster-note" data-entrance-group="lyric-return" transform="translate(87 964) rotate(0)" data-note="return" role="button" tabindex="0" aria-label="explore it feels like being back again, after all">
+<rect class="poster-hit" x="-24" y="-9" width="610" height="82.96" rx="10" fill="transparent" pointer-events="all"/>
+<path class="poster-quote" data-quote-corner="open" d="M-2.74 6.02 C-5.818 4.62 -9 8.72 -13 8.02 C-14.8 13.997 -11.5 21.157 -12.2 25.38" fill="none" stroke="#586d9b" stroke-width="4.05" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="0" y="39.6" font-size="54" font-weight="400" fill="#586d9b" text-anchor="start"><tspan x="0" y="39.6">되돌아간 기분 </tspan></text>
+<text x="311.04" y="39.6" font-size="32.4" font-weight="400" fill="#586d9b" text-anchor="start"><tspan x="311.04" y="39.6">after all</tspan></text>
+<path class="poster-quote" data-quote-corner="close" d="M431.982 22.68 C433.382 31.86 431.082 36.04 432.582 42.04 C427.982 43.34 424.595 40.34 421.722 41.04" fill="none" stroke="#586d9b" stroke-width="4.05" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="9" y="69.348" font-size="20.7" font-weight="400" fill="#586d9b" text-anchor="start"><tspan x="9" y="69.348">it feels like being back again, after all.</tspan></text>
+</g>
+<g class="poster-glossary" data-entrance-group="gloss-breeze" transform="translate(92 1047) rotate(0)">
+<text x="0" y="29" font-size="37.5" font-weight="400" fill="#303d61" text-anchor="start"><tspan x="0" y="29">바람결</tspan></text>
+<text x="105" y="21.632" font-size="19.8" font-weight="400" fill="#586d9b" text-anchor="start"><tspan x="105" y="21.632">breeze</tspan></text>
+</g>
+<g class="poster-glossary" data-entrance-group="gloss-carried" transform="translate(365 1047) rotate(0)">
+<text x="0" y="29" font-size="37.5" font-weight="400" fill="#303d61" text-anchor="start"><tspan x="0" y="29">실려</tspan></text>
+<text x="75" y="21.632" font-size="19.8" font-weight="400" fill="#586d9b" text-anchor="start"><tspan x="75" y="21.632">carried</tspan></text>
+</g>
+<g class="poster-margin" transform="translate(721 858) rotate(2)">
+<g class="poster-glossary" data-entrance-group="gloss-scent-marker" transform="translate(0 0) rotate(0)">
+<text x="0" y="27" font-size="37.5" font-weight="400" fill="#303d61" text-anchor="start"><tspan x="0" y="27">향길 = 향기를</tspan></text>
+<text x="5" y="59.632" font-size="19.8" font-weight="400" fill="#a96249" text-anchor="start"><tspan x="5" y="59.632">scent + object marker</tspan></text>
+<text x="5" y="82.876" font-size="18.9" font-weight="400" fill="#a96249" text-anchor="start"><tspan x="5" y="82.876">contracted form</tspan></text>
+</g>
+<g class="poster-glossary" data-entrance-group="gloss-brushed" transform="translate(0 116) rotate(0)">
+<text x="0" y="29" font-size="37.5" font-weight="400" fill="#303d61" text-anchor="start"><tspan x="0" y="29">스친</tspan></text>
+<text x="85" y="21.632" font-size="19.8" font-weight="400" fill="#586d9b" text-anchor="start"><tspan x="85" y="21.632">brushed past</tspan></text>
+</g>
+</g>
+<g class="poster-backing-paper" data-photo-for="train" transform="translate(659 1117) rotate(4)" aria-hidden="true"><rect width="349" height="399" fill="#e8d2cc"/></g>
+<g class="poster-photo" data-entrance-group="photo-train" transform="translate(687 1131) rotate(4)" data-photo="train" role="button" tabindex="0" aria-label="open a moment passes, yet stays">
+<g class="photo-float">
+<rect x="-12" y="-12" width="324" height="412" fill="#f9fafe" filter="url(#deja-vu-photo-shadow)"/>
+<image href="/philia/assets/deja-vu/mv-0139-frame.png" width="300" height="332" preserveAspectRatio="xMidYMid slice"/>
+<text x="5" y="364.36" font-size="36" font-weight="400" fill="#586d9b" text-anchor="start"><tspan x="5" y="364.36">지나가도 남는 순간</tspan></text>
+<text x="18" y="388.632" font-size="19.8" font-weight="400" fill="#586d9b" text-anchor="start"><tspan x="18" y="388.632">a moment passes, yet stays.</tspan></text>
+<rect class="poster-hit" x="-12" y="-12" width="324" height="412" rx="10" fill="transparent" pointer-events="all"/>
+</g></g>
+<g class="poster-tape" data-photo-for="train" transform="translate(769 1114) rotate(-4)" aria-hidden="true"><path d="M0 1 L125 0 L127 24 L2 26 Z" fill="#deb79f" fill-opacity=".7"/>
+<path d="M7 2 L9 24" fill="none" stroke="#deb79f" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M14 2 L16 24" fill="none" stroke="#deb79f" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M21 2 L23 24" fill="none" stroke="#deb79f" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M28 2 L30 24" fill="none" stroke="#deb79f" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M35 2 L37 24" fill="none" stroke="#deb79f" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M42 2 L44 24" fill="none" stroke="#deb79f" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M49 2 L51 24" fill="none" stroke="#deb79f" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M56 2 L58 24" fill="none" stroke="#deb79f" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M63 2 L65 24" fill="none" stroke="#deb79f" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M70 2 L72 24" fill="none" stroke="#deb79f" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M77 2 L79 24" fill="none" stroke="#deb79f" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M84 2 L86 24" fill="none" stroke="#deb79f" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M91 2 L93 24" fill="none" stroke="#deb79f" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M98 2 L100 24" fill="none" stroke="#deb79f" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M105 2 L107 24" fill="none" stroke="#deb79f" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M112 2 L114 24" fill="none" stroke="#deb79f" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M119 2 L121 24" fill="none" stroke="#deb79f" stroke-opacity=".16" stroke-width=".5"/>
+<path d="M126 2 L128 24" fill="none" stroke="#deb79f" stroke-opacity=".16" stroke-width=".5"/>
+</g>
+<g class="poster-lyric-cluster" transform="translate(83 1137) rotate(-2)">
+<g class="poster-note" data-entrance-group="lyric-first-glimpse" transform="translate(0 0) rotate(0)" data-note="first-glimpse" role="button" tabindex="0" aria-label="explore when we first crossed paths">
+<rect class="poster-hit" x="-24" y="-9" width="550" height="82.96" rx="10" fill="transparent" pointer-events="all"/>
+<path class="poster-quote" data-quote-corner="open" d="M-2.74 6.02 C-5.818 4.62 -9 8.72 -13 8.02 C-14.8 13.997 -11.5 21.157 -12.2 25.38" fill="none" stroke="#303d61" stroke-width="4.05" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="0" y="39.6" font-size="54" font-weight="400" fill="#303d61" text-anchor="start"><tspan x="0" y="39.6">처음 스친 그때</tspan></text>
+<path class="poster-quote" data-quote-corner="close" d="M320.04 22.68 C321.44 31.86 319.14 36.04 320.64 42.04 C316.04 43.34 312.653 40.34 309.78 41.04" fill="none" stroke="#303d61" stroke-width="4.05" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="9" y="69.348" font-size="20.7" font-weight="400" fill="#586d9b" text-anchor="start"><tspan x="9" y="69.348">when we first crossed paths.</tspan></text>
+</g>
+<g class="poster-note" data-entrance-group="lyric-scent" transform="translate(0 83) rotate(0)" data-note="scent" role="button" tabindex="0" aria-label="explore remember this scent">
+<rect class="poster-hit" x="-24" y="-9" width="550" height="85.68" rx="10" fill="transparent" pointer-events="all"/>
+<path class="poster-quote" data-quote-corner="open" d="M-2.17 6.41 C-5.419 5.01 -9 9.11 -13 8.41 C-14.8 14.774 -11.5 22.333 -12.2 26.79" fill="none" stroke="#303d61" stroke-width="4.275" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="0" y="41.8" font-size="57" font-weight="400" fill="#303d61" text-anchor="start"><tspan x="0" y="41.8">이 향길 기억해 줘</tspan></text>
+<path class="poster-quote" data-quote-corner="close" d="M408 23.94 C409.4 33.63 407.1 38.32 408.6 44.32 C404 45.62 400.202 42.62 397.17 43.32" fill="none" stroke="#303d61" stroke-width="4.275" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="9" y="72.068" font-size="20.7" font-weight="400" fill="#586d9b" text-anchor="start"><tspan x="9" y="72.068">remember this scent.</tspan></text>
+</g>
+<g class="poster-note" data-entrance-group="lyric-contact" transform="translate(0 168) rotate(0)" data-note="contact" role="button" tabindex="0" aria-label="explore the moment of contact">
+<rect class="poster-hit" x="-24" y="-9" width="550" height="82.96" rx="10" fill="transparent" pointer-events="all"/>
+<path class="poster-quote" data-quote-corner="open" d="M-2.74 6.02 C-5.818 4.62 -9 8.72 -13 8.02 C-14.8 13.997 -11.5 21.157 -12.2 25.38" fill="none" stroke="#303d61" stroke-width="4.05" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="0" y="39.6" font-size="54" font-weight="400" fill="#303d61" text-anchor="start"><tspan x="0" y="39.6">닿은 그 순간</tspan></text>
+<path class="poster-quote" data-quote-corner="close" d="M275.76 22.68 C277.16 31.86 274.86 36.04 276.36 42.04 C271.76 43.34 268.373 40.34 265.5 41.04" fill="none" stroke="#303d61" stroke-width="4.05" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="9" y="69.348" font-size="20.7" font-weight="400" fill="#586d9b" text-anchor="start"><tspan x="9" y="69.348">the moment of contact.</tspan></text>
+</g>
+<g class="poster-note" data-entrance-group="lyric-unfold" transform="translate(0 251) rotate(0)" data-note="unfold" role="button" tabindex="0" aria-label="explore a déjà vu about to unfold">
+<rect class="poster-hit" x="-24" y="-9" width="550" height="84.32" rx="10" fill="transparent" pointer-events="all"/>
+<path class="poster-quote" data-quote-corner="open" d="M-2.455 6.215 C-5.619 4.815 -9 8.915 -13 8.215 C-14.8 14.386 -11.5 21.745 -12.2 26.085" fill="none" stroke="#303d61" stroke-width="4.162" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="0" y="40.7" font-size="55.5" font-weight="400" fill="#303d61" text-anchor="start"><tspan x="0" y="40.7">펼쳐질 </tspan></text>
+<text x="159.84" y="40.7" font-size="33.3" font-weight="400" fill="#303d61" text-anchor="start"><tspan x="159.84" y="40.7">deja vu</tspan></text>
+<path class="poster-quote" data-quote-corner="close" d="M270.671 23.31 C272.071 32.745 269.771 37.18 271.271 43.18 C266.671 44.48 263.079 41.48 260.126 42.18" fill="none" stroke="#303d61" stroke-width="4.162" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="9" y="70.708" font-size="20.7" font-weight="400" fill="#586d9b" text-anchor="start"><tspan x="9" y="70.708">a déjà vu about to unfold.</tspan></text>
+</g>
+</g>
+<g class="poster-note" data-entrance-group="lyric-same-dream" transform="translate(88 1492) rotate(0)" data-note="same-dream" role="button" tabindex="0" aria-label="explore as if dreaming the same dream">
+<rect class="poster-hit" x="-24" y="-9" width="620" height="84.32" rx="10" fill="transparent" pointer-events="all"/>
+<path class="poster-quote" data-quote-corner="open" d="M-2.455 6.215 C-5.619 4.815 -9 8.915 -13 8.215 C-14.8 14.386 -11.5 21.745 -12.2 26.085" fill="none" stroke="#586d9b" stroke-width="4.162" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="0" y="40.7" font-size="55.5" font-weight="400" fill="#586d9b" text-anchor="start"><tspan x="0" y="40.7">같은 꿈을 꾸듯</tspan></text>
+<path class="poster-quote" data-quote-corner="close" d="M328.68 23.31 C330.08 32.745 327.78 37.18 329.28 43.18 C324.68 44.48 321.088 41.48 318.135 42.18" fill="none" stroke="#586d9b" stroke-width="4.162" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="9" y="70.708" font-size="20.7" font-weight="400" fill="#586d9b" text-anchor="start"><tspan x="9" y="70.708">as if dreaming the same dream.</tspan></text>
+</g>
+<g class="poster-note" data-entrance-group="lyric-eyes" transform="translate(88 1581) rotate(0)" data-note="eyes" role="button" tabindex="0" aria-label="explore when i close my eyes">
+<rect class="poster-hit" x="-24" y="-9" width="620" height="84.32" rx="10" fill="transparent" pointer-events="all"/>
+<path class="poster-quote" data-quote-corner="open" d="M-2.455 6.215 C-5.619 4.815 -9 8.915 -13 8.215 C-14.8 14.386 -11.5 21.745 -12.2 26.085" fill="none" stroke="#586d9b" stroke-width="4.162" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="0" y="40.7" font-size="55.5" font-weight="400" fill="#586d9b" text-anchor="start"><tspan x="0" y="40.7">눈을 감아보면</tspan></text>
+<path class="poster-quote" data-quote-corner="close" d="M305.37 23.31 C306.77 32.745 304.47 37.18 305.97 43.18 C301.37 44.48 297.778 41.48 294.825 42.18" fill="none" stroke="#586d9b" stroke-width="4.162" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="9" y="70.708" font-size="20.7" font-weight="400" fill="#586d9b" text-anchor="start"><tspan x="9" y="70.708">when i close my eyes.</tspan></text>
+</g>
+<g class="poster-note" data-entrance-group="lyric-familiar" transform="translate(88 1670) rotate(0)" data-note="familiar" role="button" tabindex="0" aria-label="explore a familiar déjà vu">
+<rect class="poster-hit" x="-24" y="-9" width="620" height="91.12" rx="10" fill="transparent" pointer-events="all"/>
+<path class="poster-quote" data-quote-corner="open" d="M-1.03 7.19 C-4.621 5.79 -9 9.89 -13 9.19 C-14.8 16.33 -11.5 24.683 -12.2 29.61" fill="none" stroke="#586d9b" stroke-width="4.725" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="0" y="46.2" font-size="63" font-weight="400" fill="#586d9b" text-anchor="start"><tspan x="0" y="46.2">익숙한 </tspan></text>
+<text x="181.44" y="46.2" font-size="37.8" font-weight="400" fill="#586d9b" text-anchor="start"><tspan x="181.44" y="46.2">deja vu</tspan></text>
+<path class="poster-quote" data-quote-corner="close" d="M306.032 26.46 C307.432 37.17 305.132 42.88 306.632 48.88 C302.032 50.18 297.414 47.18 294.062 47.88" fill="none" stroke="#586d9b" stroke-width="4.725" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="9" y="77.508" font-size="20.7" font-weight="400" fill="#586d9b" text-anchor="start"><tspan x="9" y="77.508">a familiar déjà vu.</tspan></text>
+</g>
+<g class="poster-glossary" data-entrance-group="gloss-touch" transform="translate(708 1552) rotate(0)">
+<text x="0" y="29" font-size="37.5" font-weight="400" fill="#303d61" text-anchor="start"><tspan x="0" y="29">닿다</tspan></text>
+<text x="85" y="21.632" font-size="19.8" font-weight="400" fill="#586d9b" text-anchor="start"><tspan x="85" y="21.632">reach / touch</tspan></text>
+</g>
+<g class="poster-glossary" data-entrance-group="gloss-dreaming" transform="translate(708 1612) rotate(0)">
+<text x="0" y="29" font-size="37.5" font-weight="400" fill="#303d61" text-anchor="start"><tspan x="0" y="29">꾸듯</tspan></text>
+<text x="85" y="21.632" font-size="19.8" font-weight="400" fill="#586d9b" text-anchor="start"><tspan x="85" y="21.632">as if dreaming</tspan></text>
+</g>
+<g class="poster-glossary" data-entrance-group="gloss-familiar" transform="translate(708 1672) rotate(0)">
+<text x="0" y="29" font-size="37.5" font-weight="400" fill="#303d61" text-anchor="start"><tspan x="0" y="29">익숙한</tspan></text>
+<text x="105" y="21.632" font-size="19.8" font-weight="400" fill="#586d9b" text-anchor="start"><tspan x="105" y="21.632">familiar</tspan></text>
+</g>
+<g class="poster-note" data-entrance-group="refrain" transform="translate(0 0) rotate(0)" data-note="refrain" role="button" tabindex="0" aria-label="explore the refrain and the returning memory">
+<rect class="poster-hit" x="63" y="1785" width="954" height="85" rx="10" fill="transparent" pointer-events="all"/>
+<text x="540" y="1825.2" font-size="45" font-weight="400" fill="#a96249" text-anchor="middle"><tspan x="540" y="1825.2">후렴이 돌아올 때, 그날도 돌아온다</tspan></text>
+<text x="540" y="1860.144" font-size="21.6" font-weight="400" fill="#586d9b" text-anchor="middle"><tspan x="540" y="1860.144">as the refrain returns, so does that day.</tspan></text>
+</g>
+<g class="poster-credit" data-entrance-group="credit" transform="translate(0 0) rotate(0)">
+<text x="540" y="1905.12" font-size="18" font-weight="400" fill="#586d9b" text-anchor="middle"><tspan x="540" y="1905.12">fan interpretation · mv © the muze entertainment</tspan></text>
+</g></svg>

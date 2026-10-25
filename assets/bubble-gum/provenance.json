@@ -1,0 +1,167 @@
+{
+  "reference_poster": "bubble-gum-handwritten-phone-v1.png",
+  "reference_renderer": "render_poster_v1.swift",
+  "viewbox": [
+    0,
+    0,
+    1080,
+    1920
+  ],
+  "palette": {
+    "paper": "#f0f5df",
+    "ink": "#345d4d",
+    "coral": "#b96a65",
+    "muted_green": "#627d6d"
+  },
+  "official_mv": "https://www.youtube.com/watch?v=ft70sAYrFyY",
+  "lyric_source": "https://music.bugs.co.kr/track/6243126",
+  "album_notes": "https://music.bugs.co.kr/album/4100628",
+  "attribution": "fan interpretation · mv © ador",
+  "photos": [
+    {
+      "key": "palm",
+      "file": "mv-0005-frame.png",
+      "source_size": [
+        1920,
+        1080
+      ],
+      "time_seconds": 5.75,
+      "poster_rect": [
+        66,
+        484,
+        540,
+        304
+      ],
+      "rotation_degrees": -4
+    },
+    {
+      "key": "flowers",
+      "file": "mv-0223-frame.png",
+      "source_size": [
+        1920,
+        1080
+      ],
+      "time_seconds": 142.25,
+      "poster_rect": [
+        728,
+        474,
+        270,
+        347
+      ],
+      "rotation_degrees": 6
+    },
+    {
+      "key": "sea",
+      "file": "mv-0241-frame.png",
+      "source_size": [
+        1920,
+        1080
+      ],
+      "time_seconds": 160.5,
+      "poster_rect": [
+        82,
+        1203,
+        600,
+        338
+      ],
+      "rotation_degrees": -3
+    }
+  ],
+  "copied_source_files_byte_identical": {
+    "mv-0005-frame.png": true,
+    "mv-0223-frame.png": true,
+    "mv-0241-frame.png": true,
+    "bubble-gum-poster-original.png": true
+  },
+  "notes": [
+    "today",
+    "scent",
+    "sea-caption",
+    "remember",
+    "anywhere",
+    "delicate",
+    "uh-uh",
+    "farther"
+  ],
+  "glossary_groups": [
+    "scent",
+    "first",
+    "find",
+    "memory",
+    "follow",
+    "bubbles",
+    "flying"
+  ],
+  "fonts": {
+    "family": "gaegu",
+    "files": [
+      "Gaegu-Regular.ttf",
+      "Gaegu-Bold.ttf"
+    ],
+    "license": "OFL.txt"
+  },
+  "visible_text_lines_in_svg_order": [
+    "뉴진스 · 버블검",
+    "newjeans · bubble gum",
+    "향기가 먼저,",
+    "마음은 더 멀리",
+    "scent arrives first; the heart drifts farther.",
+    "향기로 남은 순간",
+    "a moment held in scent.",
+    "먼저 닿는 설렘",
+    "anticipation arrives first.",
+    "오늘 오래 걸린 이유",
+    "why it took so long today.",
+    "i'm always so excited to meet you",
+    "내 향기가 널 먼저 찾아가",
+    "my scent finds you first.",
+    "향기",
+    "scent",
+    "먼저",
+    "first",
+    "찾아가",
+    "finds / reaches",
+    "거품 속에 숨었네",
+    "hidden in the bubbles.",
+    "눈 감아도",
+    "기억나게",
+    "so you’ll remember,",
+    "even with eyes closed.",
+    "어디라도",
+    "따라갈래",
+    "i'll follow you anywhere.",
+    "you're so delicate",
+    "uh uh uh",
+    "기억나다",
+    "come to mind",
+    "따라가",
+    "follow",
+    "거품",
+    "bubbles",
+    "날리다",
+    "send flying",
+    "더 멀리 날려줘",
+    "send it flying farther.",
+    "let's go far away",
+    "fan interpretation · mv © ador"
+  ],
+  "structure": [
+    "every visible text line has its own text element with one top-level tspan.",
+    "24 explicit data-entrance-group groups: heading, five bubble decorations, three photos with captions, seven glossary pairs, today, scent, remember, anywhere, delicate, uh-uh, farther, credit.",
+    "today groups the korean quote, english translation and related anticipation line.",
+    "scent has the translucent highlight before the opening quote corner.",
+    "sea photo has image, opening caption corner, korean caption, closing corner, english caption.",
+    "each two-line aside has opening corner, both korean lines, closing corner, then its english translation lines.",
+    "farther groups the final korean quote and both english lines.",
+    "photo transforms remain on outer groups; image, captions and white frame are inside photo-float.",
+    "backing papers and tapes carry data-photo-for; the sea photo also carries data-note for quoted caption phases."
+  ],
+  "differences": [
+    "authored latin copy is lowercase. downloadable original png and all three source photos remain byte-identical.",
+    "svg uses native text baselines approximating appkit paragraph layout; browser shaping and fallback glyph metrics may differ by a few pixels.",
+    "source paper grain has 36,000 deterministic dots; svg uses a repeating subtle native dot pattern.",
+    "photo shadows use fedropshadow instead of appkit nsshadow.",
+    "bubbles and glints are native vector paths using the original control points.",
+    "no javascript, css animation, reconstructed handwriting paths, candidates, video clips, media tools, or photo manipulation is included."
+  ]
+}

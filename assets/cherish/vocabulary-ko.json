@@ -1,0 +1,240 @@
+{
+  "3초만": {
+    "meaning": "only three seconds",
+    "usage": "3초 means 'three seconds'; the particle 만 limits the time to just that amount.",
+    "example": "잠깐만, 3초만 기다려 주세요.",
+    "translation": "please wait just three seconds.",
+    "emoji": "⏱️"
+  },
+  "각오": {
+    "meaning": "resolve; determination",
+    "usage": "a noun for mental readiness or firm resolve, often used with 하다 or 다지다.",
+    "example": "그는 끝까지 해낼 각오가 되어 있다.",
+    "translation": "he is determined to see it through.",
+    "emoji": "💪"
+  },
+  "각오가": {
+    "meaning": "resolve; determination",
+    "usage": "각오 is followed by the subject particle 가 after a vowel-final noun.",
+    "example": "이번에는 꼭 해내겠다는 각오가 생겼다.",
+    "translation": "i found the resolve to succeed this time.",
+    "emoji": "💪"
+  },
+  "감정": {
+    "meaning": "emotion; feeling",
+    "usage": "a noun for a feeling or emotion; 감정을 표현하다 means 'to express one's feelings'.",
+    "example": "그림으로 감정을 표현했어요.",
+    "translation": "i expressed my feelings through a drawing.",
+    "emoji": "💗"
+  },
+  "결심으로": {
+    "meaning": "toward a decision; with resolve",
+    "usage": "결심 means “resolve”; 으로 marks direction or transition, here from repetition toward resolve.",
+    "example": "새로운 결심으로 하루를 시작했어요.",
+    "translation": "i started the day with fresh resolve.",
+    "emoji": "🌅"
+  },
+  "고민은": {
+    "meaning": "worry; concern",
+    "usage": "고민 means 'worry' or 'concern'; 은 marks it as the topic after a consonant.",
+    "example": "요즘 고민은 운동을 꾸준히 하는 거예요.",
+    "translation": "my concern these days is exercising regularly.",
+    "emoji": "💭"
+  },
+  "궁금해": {
+    "meaning": "i'm curious; i wonder",
+    "usage": "the casual present form of 궁금하다, used when you want to know something.",
+    "example": "새로 생긴 가게가 어떤 곳인지 궁금해.",
+    "translation": "i wonder what the new shop is like.",
+    "emoji": "❓"
+  },
+  "끝까지": {
+    "meaning": "to the end; all the way",
+    "usage": "끝 means 'end'; 까지 marks the endpoint or extent.",
+    "example": "책을 끝까지 읽었어요.",
+    "translation": "i read the book to the end.",
+    "emoji": "🏁"
+  },
+  "내": {
+    "meaning": "my",
+    "usage": "a short form of 나의, meaning 'my'; it comes before a noun.",
+    "example": "내 책은 책상 위에 있어요.",
+    "translation": "my book is on the desk.",
+    "emoji": "🙋"
+  },
+  "너의": {
+    "meaning": "your",
+    "usage": "너 means 'you'; 의 marks possession, though it is often omitted in casual speech.",
+    "example": "너의 생각을 듣고 싶어.",
+    "translation": "i want to hear your thoughts.",
+    "emoji": "🫵"
+  },
+  "네": {
+    "meaning": "your",
+    "usage": "the possessive form of 너 with 의 often contracted; here it means 'your'.",
+    "example": "네 가방이 의자에 있어.",
+    "translation": "your bag is on the chair.",
+    "emoji": "🫵"
+  },
+  "니": {
+    "meaning": "tooth (in 사랑니, 'wisdom tooth')",
+    "usage": "here 니 is the tooth element in the fixed word 사랑니; it is not the casual pronoun meaning 'your'.",
+    "example": "사랑니가 아파서 치과에 갔어요.",
+    "translation": "i went to the dentist because my wisdom tooth hurt.",
+    "emoji": "🦷"
+  },
+  "두": {
+    "meaning": "two",
+    "usage": "a native korean number used before a counter or noun, as in 두 사람, 'two people'.",
+    "example": "두 친구가 함께 산책했어요.",
+    "translation": "two friends went for a walk together.",
+    "emoji": "✌️"
+  },
+  "마음": {
+    "meaning": "heart; mind; feelings",
+    "usage": "a broad noun for the mind, feelings, affection, or intention, depending on context.",
+    "example": "마음을 편하게 먹고 천천히 해요.",
+    "translation": "put your mind at ease and take your time.",
+    "emoji": "💛"
+  },
+  "마음은": {
+    "meaning": "heart; mind; feelings",
+    "usage": "마음 means 'heart' or 'mind'; 은 marks it as the topic after a consonant.",
+    "example": "마음은 고맙지만 선물은 괜찮아요.",
+    "translation": "i appreciate the thought, but the gift isn't necessary.",
+    "emoji": "💛"
+  },
+  "맘": {
+    "meaning": "heart; mind; feelings (short for 마음)",
+    "usage": "a familiar shortened form of 마음, common in casual speech and writing.",
+    "example": "오늘은 맘이 한결 가벼워요.",
+    "translation": "my heart feels much lighter today.",
+    "emoji": "🫶"
+  },
+  "맘은": {
+    "meaning": "heart; mind; feelings (short for 마음)",
+    "usage": "맘 is the short form of 마음; 은 marks it as the topic after a consonant.",
+    "example": "맘은 이미 정했어요.",
+    "translation": "i have already made up my mind.",
+    "emoji": "🫶"
+  },
+  "반복에서": {
+    "meaning": "in repetition; from repeating",
+    "usage": "반복 means 'repetition'; 에서 marks a place, setting, or source depending on context.",
+    "example": "반복에서 작은 차이를 발견했어요.",
+    "translation": "i noticed a small difference in the repetition.",
+    "emoji": "🔁"
+  },
+  "번째": {
+    "meaning": "ordinal number marker; -th",
+    "usage": "a bound noun written separately after the preceding number, as in 두 번째, “second”.",
+    "example": "이번이 세 번째 방문이에요.",
+    "translation": "this is my third visit.",
+    "emoji": "🔢"
+  },
+  "빛나는": {
+    "meaning": "shining; sparkling",
+    "usage": "the noun-modifying form of 빛나다, meaning 'to shine'; it comes before a noun.",
+    "example": "밤하늘에 빛나는 별을 봤어요.",
+    "translation": "i saw stars shining in the night sky.",
+    "emoji": "✨"
+  },
+  "사랑": {
+    "meaning": "love; affection",
+    "usage": "a noun for love, affection, or caring; the exact sense depends on context.",
+    "example": "가족의 사랑을 늘 기억해요.",
+    "translation": "i always remember my family's love.",
+    "emoji": "❤️"
+  },
+  "사랑니": {
+    "meaning": "wisdom tooth",
+    "usage": "a fixed noun for a wisdom tooth; the poster's link to love and growing pains is a creative association.",
+    "example": "사랑니가 나기 시작했어요.",
+    "translation": "my wisdom tooth has started to come in.",
+    "emoji": "🦷"
+  },
+  "설렘과": {
+    "meaning": "fluttering excitement and",
+    "usage": "설렘 means 'a flutter of excitement'; 과 joins it to another noun after a consonant.",
+    "example": "설렘과 기대를 안고 여행을 떠났어요.",
+    "translation": "i set off on a trip with excitement and anticipation.",
+    "emoji": "💓"
+  },
+  "설렘은": {
+    "meaning": "fluttering excitement; a flutter of anticipation",
+    "usage": "설렘 is a noun for excited anticipation; 은 marks it as the topic after a consonant.",
+    "example": "새로운 시작의 설렘은 오래 기억에 남아요.",
+    "translation": "the excitement of a new beginning stays in my memory.",
+    "emoji": "💓"
+  },
+  "성장통": {
+    "meaning": "growing pains",
+    "usage": "a noun for pains associated with growing; it can also figuratively describe difficulties during growth or change.",
+    "example": "실수도 성장통이라고 생각해요.",
+    "translation": "i think of mistakes as growing pains, too.",
+    "emoji": "🌱"
+  },
+  "속의": {
+    "meaning": "inside; within",
+    "usage": "속 means 'inside'; 의 links it to the following noun, as in 마음속의 비밀, 'a secret in one's heart'.",
+    "example": "상자 속의 편지를 꺼냈어요.",
+    "translation": "i took the letter out of the box.",
+    "emoji": "📦"
+  },
+  "아일릿": {
+    "meaning": "illit (the group name, written in korean)",
+    "usage": "a korean rendering of the proper name illit; it is a name, not a general vocabulary word.",
+    "example": "아일릿의 무대를 즐겁게 봤어요.",
+    "translation": "i enjoyed illit's performance.",
+    "emoji": "🎤"
+  },
+  "우리": {
+    "meaning": "we; us; our",
+    "usage": "a pronoun meaning 'we' or 'us', and often used before a noun to mean 'our'.",
+    "example": "우리 동네에 작은 공원이 있어요.",
+    "translation": "there is a small park in our neighborhood.",
+    "emoji": "👥"
+  },
+  "자라고": {
+    "meaning": "grows and; grow and",
+    "usage": "from 자라다, 'to grow'; -고 connects this action to what follows, with tense supplied by context.",
+    "example": "나무가 자라고 꽃이 피어요.",
+    "translation": "the trees grow and the flowers bloom.",
+    "emoji": "🌿"
+  },
+  "절대": {
+    "meaning": "absolutely; never (with a negative)",
+    "usage": "an adverb that intensifies a statement; with a negative, it often means “never”.",
+    "example": "약속은 절대 잊지 않을게요.",
+    "translation": "i will never forget the promise.",
+    "emoji": "🚫"
+  },
+  "지켜": {
+    "meaning": "protect; keep; watch over",
+    "usage": "the casual present or imperative form of 지키다; context shows whether it means 'protect', 'keep', or 'watch over'.",
+    "example": "친구와 한 약속을 지켜 주세요.",
+    "translation": "please keep the promise you made with your friend.",
+    "emoji": "🛡️"
+  },
+  "첫": {
+    "meaning": "first",
+    "usage": "a determiner placed before a noun to mark the first one, as in 첫 만남, 'first meeting'.",
+    "example": "첫 여행을 아직도 기억해요.",
+    "translation": "i still remember my first trip.",
+    "emoji": "1️⃣"
+  },
+  "첫사랑의": {
+    "meaning": "of first love; first love's",
+    "usage": "첫사랑 means 'first love'; 의 marks possession or a relationship to the following noun.",
+    "example": "첫사랑의 기억은 아직 선명해요.",
+    "translation": "the memory of my first love is still vivid.",
+    "emoji": "💌"
+  },
+  "체리시": {
+    "meaning": "cherish (the title, written in korean)",
+    "usage": "a korean rendering of the english title 'cherish'; here it is a proper title, not a general vocabulary item.",
+    "example": "체리시라는 제목이 귀에 남아요.",
+    "translation": "the title cherish stays with me.",
+    "emoji": "🍒"
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "reference_poster": "rescene-deja-vu-handwritten-phone-v2.png",
+  "reference_renderer": "render_poster_v2.swift",
+  "viewBox": [
+    0,
+    0,
+    1080,
+    1920
+  ],
+  "palette": {
+    "paper": "#eef1f9",
+    "ink": "#303d61",
+    "blue": "#586d9b",
+    "orange": "#a96249"
+  },
+  "official_mv": "https://www.youtube.com/watch?v=ZbO9PBdFRdc",
+  "lyric_source": "https://music.bugs.co.kr/track/6320796",
+  "album_notes": "https://music.bugs.co.kr/album/4122375",
+  "photos": [
+    {
+      "key": "portrait",
+      "file": "mv-0019-frame.png",
+      "source_size": [
+        965,
+        543
+      ],
+      "time_seconds": 18.999994,
+      "poster_rect": [
+        76,
+        487,
+        570,
+        321
+      ],
+      "rotation_degrees": -4
+    },
+    {
+      "key": "breeze",
+      "file": "mv-0035-frame.png",
+      "source_size": [
+        965,
+        543
+      ],
+      "time_seconds": 35.0,
+      "poster_rect": [
+        704,
+        514,
+        290,
+        163
+      ],
+      "rotation_degrees": 7
+    },
+    {
+      "key": "train",
+      "file": "mv-0139-frame.png",
+      "source_size": [
+        965,
+        543
+      ],
+      "time_seconds": 98.999998,
+      "poster_rect": [
+        687,
+        1131,
+        300,
+        332
+      ],
+      "rotation_degrees": 4
+    }
+  ],
+  "notes": [
+    "back-then",
+    "breeze",
+    "return",
+    "first-glimpse",
+    "scent",
+    "contact",
+    "unfold",
+    "same-dream",
+    "eyes",
+    "familiar",
+    "refrain"
+  ],
+  "glossary_groups": [
+    "breeze",
+    "carried",
+    "scent-marker",
+    "brushed",
+    "touch",
+    "dreaming",
+    "familiar"
+  ],
+  "fonts": {
+    "family": "gaegu",
+    "files": [
+      "Gaegu-Regular.ttf",
+      "Gaegu-Bold.ttf"
+    ],
+    "license": "OFL.txt"
+  },
+  "visible_text_lines_in_svg_order": [
+    "리센느 · 데자뷔",
+    "rescene · deja vu",
+    "향기로 돌아온",
+    "그날의 기억",
+    "the memory of that day, brought back by a scent.",
+    "다시,",
+    "그때로",
+    "back to then.",
+    "바람이 머무는 곳",
+    "where the breeze stays.",
+    "처음 스친 얼굴",
+    "the face i first glimpsed.",
+    "바람결에 실려 다시",
+    "carried on the breeze, once more.",
+    "되돌아간 기분 ",
+    "after all",
+    "it feels like being back again, after all.",
+    "바람결",
+    "breeze",
+    "실려",
+    "carried",
+    "향길 = 향기를",
+    "scent + object marker",
+    "contracted form",
+    "스친",
+    "brushed past",
+    "지나가도 남는 순간",
+    "a moment passes, yet stays.",
+    "처음 스친 그때",
+    "when we first crossed paths.",
+    "이 향길 기억해 줘",
+    "remember this scent.",
+    "닿은 그 순간",
+    "the moment of contact.",
+    "펼쳐질 ",
+    "deja vu",
+    "a déjà vu about to unfold.",
+    "같은 꿈을 꾸듯",
+    "as if dreaming the same dream.",
+    "눈을 감아보면",
+    "when i close my eyes.",
+    "익숙한 ",
+    "deja vu",
+    "a familiar déjà vu.",
+    "닿다",
+    "reach / touch",
+    "꾸듯",
+    "as if dreaming",
+    "익숙한",
+    "familiar",
+    "후렴이 돌아올 때, 그날도 돌아온다",
+    "as the refrain returns, so does that day.",
+    "fan interpretation · mv © the muze entertainment"
+  ],
+  "structure": [
+    "Every visible line has one text element with one top-level tspan.",
+    "Each heading, lyric and translation, glossary pair, photo with captions, back-to-then annotation, closing refrain, credit, and wind decoration has a distinct data-entrance-group.",
+    "Mixed Korean / Latin lyrics use an independent smaller Latin text element at the same baseline, following the Korean text in the DOM.",
+    "Quoted lyrics use separate open and close poster-quote paths; order is open, Korean, inline Latin if present, close, translation.",
+    "Photo transforms remain on outer groups and photo-float is the inner group.",
+    "Backing papers and tapes carry data-photo-for to associate them with photos."
+  ],
+  "differences": [
+    "Authored Latin copy is lowercased. The original downloadable poster and photo pixels are unmodified.",
+    "SVG baselines approximate AppKit paragraph layout; browser font shaping, fallback glyphs, and fractional advances may differ by a few pixels.",
+    "The source uses 36,000 deterministic paper-grain dots; SVG uses a repeating subtle native dot pattern.",
+    "Photo shadows use feDropShadow instead of AppKit NSShadow.",
+    "No JavaScript, CSS animation, generated handwriting paths, or photo manipulation is included."
+  ]
+}

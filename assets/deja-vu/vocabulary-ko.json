@@ -1,0 +1,303 @@
+{
+  "리센느": {
+    "meaning": "rescene (artist name, written in korean)",
+    "usage": "a korean rendering of the proper name rescene; it names the group, not a general word.",
+    "example": "리센느의 새 사진을 봤어요.",
+    "translation": "i saw a new photo of rescene.",
+    "emoji": "🎤"
+  },
+  "데자뷔": {
+    "meaning": "déjà vu; a feeling of having seen this before",
+    "usage": "a korean spelling of the borrowed term déjà vu; here it also names rescene's song.",
+    "example": "그 골목은 왠지 데자뷔처럼 느껴졌어요.",
+    "translation": "that alley somehow felt like déjà vu.",
+    "emoji": "🔁"
+  },
+  "향기로": {
+    "meaning": "by scent; with fragrance",
+    "usage": "향기 means 'scent'; 로 marks a means or manner, here the way a memory returns.",
+    "example": "익숙한 향기로 오래전 기억이 떠올랐어요.",
+    "translation": "a familiar scent brought back an old memory.",
+    "emoji": "🌸"
+  },
+  "돌아온": {
+    "meaning": "returned; came back",
+    "usage": "the noun-modifying form of 돌아오다, 'to return'; it describes a noun that follows.",
+    "example": "돌아온 친구와 늦게까지 이야기했어요.",
+    "translation": "i talked late with the friend who came back.",
+    "emoji": "↩️"
+  },
+  "그날의": {
+    "meaning": "of that day; that day's",
+    "usage": "그날 means 'that day'; 의 links it to a following noun, often showing possession or association.",
+    "example": "그날의 사진을 다시 꺼내 봤어요.",
+    "translation": "i looked at that day's photos again.",
+    "emoji": "📅"
+  },
+  "기억": {
+    "meaning": "memory; recollection",
+    "usage": "a noun for something remembered or the act of recalling a past experience.",
+    "example": "그 여행은 좋은 기억으로 남았어요.",
+    "translation": "that trip stayed with me as a good memory.",
+    "emoji": "🧠"
+  },
+  "다시": {
+    "meaning": "again; once more",
+    "usage": "an adverb indicating that an action happens another time or returns to an earlier state.",
+    "example": "내일 다시 전화할게요.",
+    "translation": "i'll call again tomorrow.",
+    "emoji": "🔄"
+  },
+  "그때": {
+    "meaning": "that time; then",
+    "usage": "a noun for a time already mentioned or understood; it can take particles such as 로 for direction.",
+    "example": "그때 찍은 사진을 아직 가지고 있어요.",
+    "translation": "i still have the photo taken then.",
+    "emoji": "🕰️"
+  },
+  "그때로": {
+    "meaning": "back to that time",
+    "usage": "그때 means 'that time'; 로 marks direction or a return to that point in time.",
+    "example": "사진을 보니 마음이 그때로 돌아갔어요.",
+    "translation": "looking at the photo took my mind back to that time.",
+    "emoji": "⏪"
+  },
+  "바람이": {
+    "meaning": "wind",
+    "usage": "바람 means 'wind'; 이 marks it as the subject after a consonant-final noun.",
+    "example": "바람이 창문을 살짝 흔들었어요.",
+    "translation": "the wind gently shook the window.",
+    "emoji": "🍃"
+  },
+  "머무는": {
+    "meaning": "staying; lingering",
+    "usage": "the present noun-modifying form of 머물다, 'to stay'; its original form is 머무르다.",
+    "example": "새가 잠시 머무는 나무예요.",
+    "translation": "it's a tree where birds stay for a while.",
+    "emoji": "🕊️"
+  },
+  "곳": {
+    "meaning": "place; spot",
+    "usage": "a noun meaning a place or location; it often follows a phrase describing that place.",
+    "example": "조용히 쉴 곳을 찾고 있어요.",
+    "translation": "i'm looking for a quiet place to rest.",
+    "emoji": "📍"
+  },
+  "처음": {
+    "meaning": "first; at first; the beginning",
+    "usage": "a noun or adverb referring to the first time or starting point; the exact role depends on the sentence.",
+    "example": "처음 만난 날을 기억해요.",
+    "translation": "i remember the day we first met.",
+    "emoji": "1️⃣"
+  },
+  "스친": {
+    "meaning": "brushed past; briefly crossed",
+    "usage": "스치다 plus the past noun-modifying ending ㄴ; it describes something that briefly passed or touched.",
+    "example": "복도를 스친 고양이를 봤어요.",
+    "translation": "i saw a cat that briefly passed through the hallway.",
+    "emoji": "💨"
+  },
+  "얼굴": {
+    "meaning": "face",
+    "usage": "a noun for the front part of the head; it can also mean a person's appearance.",
+    "example": "오랜만에 친구 얼굴을 봤어요.",
+    "translation": "i saw my friend's face for the first time in a while.",
+    "emoji": "🙂"
+  },
+  "바람결": {
+    "meaning": "breeze; movement of the wind",
+    "usage": "바람 means “wind”; 결 here refers to its flow or movement, as in 바람결에, “on the breeze”.",
+    "example": "바람결이 부드러워서 창문을 열었어요.",
+    "translation": "the breeze was gentle, so i opened the window.",
+    "emoji": "🌬️"
+  },
+  "바람결에": {
+    "meaning": "on the breeze; in the wind",
+    "usage": "바람결 means 'the movement of the wind'; 에 marks the setting or medium, as in 'on the breeze'.",
+    "example": "바람결에 꽃향기가 실려 왔어요.",
+    "translation": "the flower scent came on the breeze.",
+    "emoji": "🌬️"
+  },
+  "실려": {
+    "meaning": "being carried; carried along",
+    "usage": "the connective form of passive/intransitive 실리다, 'to be carried'; it is not active 싣다 here.",
+    "example": "꽃향기가 바람에 실려 왔어요.",
+    "translation": "the flower scent was carried in on the wind.",
+    "emoji": "🪁"
+  },
+  "되돌아간": {
+    "meaning": "went back; returned",
+    "usage": "되돌아가다 + -ㄴ describes a completed return before a noun; here, a feeling of being back.",
+    "example": "그 길로 되돌아간 친구를 기다렸어요.",
+    "translation": "i waited for my friend who went back along that road.",
+    "emoji": "↩️"
+  },
+  "기분": {
+    "meaning": "feeling; mood",
+    "usage": "a noun for a person's mood or how something feels to them.",
+    "example": "산책을 하고 나니 기분이 좋아졌어요.",
+    "translation": "i felt better after taking a walk.",
+    "emoji": "😊"
+  },
+  "향길": {
+    "meaning": "scent (contracted lyric form of 향기를)",
+    "usage": "a lyric contraction of 향기를, 'scent' with the object particle; it is not a usual standalone spelling.",
+    "example": "그 향길 맡으니 고향이 떠올랐어요.",
+    "translation": "that scent reminded me of home.",
+    "emoji": "🌷"
+  },
+  "향기를": {
+    "meaning": "scent; fragrance (object form)",
+    "usage": "향기 means 'scent'; 를 marks it as the object after a vowel-final noun.",
+    "example": "방 안에 퍼진 향기를 맡았어요.",
+    "translation": "i smelled the scent that spread through the room.",
+    "emoji": "🌼"
+  },
+  "이": {
+    "meaning": "this",
+    "usage": "a demonstrative determiner placed before a noun close to the speaker or in focus.",
+    "example": "이 길을 따라가면 작은 다리가 나와요.",
+    "translation": "if you follow this road, you'll come to a small bridge.",
+    "emoji": "👉"
+  },
+  "기억해": {
+    "meaning": "remember; keep in mind",
+    "usage": "the casual form of 기억하다, 'to remember'; it can be a statement or a familiar request.",
+    "example": "주소를 메모하고 꼭 기억해.",
+    "translation": "write down the address and remember it.",
+    "emoji": "🧠"
+  },
+  "줘": {
+    "meaning": "do it for me; please give",
+    "usage": "the casual form of 주다; after another verb, -아/어 줘 asks someone to do it for you.",
+    "example": "창문을 조금 열어 줘.",
+    "translation": "please open the window a little for me.",
+    "emoji": "🤲"
+  },
+  "닿은": {
+    "meaning": "reached; touched",
+    "usage": "닿다 plus the past noun-modifying ending 은; it describes something that reached or touched a target.",
+    "example": "손끝이 벽에 닿은 순간 멈췄어요.",
+    "translation": "i stopped the moment my fingertips touched the wall.",
+    "emoji": "🫳"
+  },
+  "그": {
+    "meaning": "that",
+    "usage": "a demonstrative determiner placed before a noun already known or mentioned.",
+    "example": "그 책은 제가 빌렸어요.",
+    "translation": "i borrowed that book.",
+    "emoji": "👈"
+  },
+  "순간": {
+    "meaning": "moment; instant",
+    "usage": "a noun for a very brief point in time.",
+    "example": "문이 열리는 순간 모두 웃었어요.",
+    "translation": "everyone laughed the moment the door opened.",
+    "emoji": "⚡"
+  },
+  "펼쳐질": {
+    "meaning": "will unfold; about to unfold",
+    "usage": "the future noun-modifying form of 펼쳐지다, 'to unfold'; it describes what will happen next.",
+    "example": "곧 펼쳐질 풍경을 기대하고 있어요.",
+    "translation": "i'm looking forward to the scenery that will soon unfold.",
+    "emoji": "🗺️"
+  },
+  "지나가도": {
+    "meaning": "even if it passes; though it goes by",
+    "usage": "지나가다 + -아도 means 'even if it passes' or 'though it goes by'.",
+    "example": "시간이 지나가도 그 약속을 기억할게요.",
+    "translation": "even as time passes, i'll remember that promise.",
+    "emoji": "⏳"
+  },
+  "남는": {
+    "meaning": "remaining; that remains",
+    "usage": "the present noun-modifying form of 남다, 'to remain'; it describes a noun that follows.",
+    "example": "오래 기억에 남는 장면이 있어요.",
+    "translation": "there is a scene that stays in my memory for a long time.",
+    "emoji": "📌"
+  },
+  "같은": {
+    "meaning": "same; like",
+    "usage": "the noun-modifying form of 같다, used before a noun to mean 'same' or 'like'.",
+    "example": "우리는 같은 색을 골랐어요.",
+    "translation": "we chose the same color.",
+    "emoji": "🟰"
+  },
+  "꿈을": {
+    "meaning": "dream (object form)",
+    "usage": "꿈 means 'dream'; 을 marks it as the object after a consonant-final noun.",
+    "example": "어릴 때의 꿈을 아직 간직하고 있어요.",
+    "translation": "i still hold on to my childhood dream.",
+    "emoji": "💭"
+  },
+  "꾸듯": {
+    "meaning": "as if dreaming",
+    "usage": "꾸다, 'to dream', combines with the connective ending 듯, meaning 'as if'.",
+    "example": "그 아이는 꿈을 꾸듯 조용히 웃었어요.",
+    "translation": "the child smiled quietly as if dreaming.",
+    "emoji": "🌙"
+  },
+  "눈을": {
+    "meaning": "eyes (object form)",
+    "usage": "눈 means 'eye' or 'eyes'; 을 marks it as the object after a consonant-final noun.",
+    "example": "눈을 감고 음악을 들었어요.",
+    "translation": "i closed my eyes and listened to music.",
+    "emoji": "👀"
+  },
+  "감아보면": {
+    "meaning": "if/when i try closing (my eyes)",
+    "usage": "감다 + -아 보다 + -(으)면: 'close' plus trying an action, followed by 'if/when'.",
+    "example": "눈을 감아보면 파도 소리가 더 잘 들려요.",
+    "translation": "when i close my eyes, i can hear the waves more clearly.",
+    "emoji": "😌"
+  },
+  "익숙한": {
+    "meaning": "familiar; accustomed",
+    "usage": "the noun-modifying form of 익숙하다, placed before a noun to describe something familiar.",
+    "example": "익숙한 목소리가 들려서 돌아봤어요.",
+    "translation": "i turned around when i heard a familiar voice.",
+    "emoji": "🏡"
+  },
+  "닿다": {
+    "meaning": "to reach; to touch",
+    "usage": "a verb meaning to make contact with or reach a place, person, or target.",
+    "example": "손이 문고리에 닿지 않았어요.",
+    "translation": "my hand didn't reach the doorknob.",
+    "emoji": "🤏"
+  },
+  "후렴이": {
+    "meaning": "refrain; chorus",
+    "usage": "후렴 means 'refrain' or 'chorus'; 이 marks it as the subject after a consonant-final noun.",
+    "example": "노래의 후렴이 귀에 맴돌아요.",
+    "translation": "the song's chorus keeps circling in my mind.",
+    "emoji": "🎶"
+  },
+  "돌아올": {
+    "meaning": "will return; that will come back",
+    "usage": "the future noun-modifying form of 돌아오다, 'to return'; it describes a noun that follows.",
+    "example": "돌아올 계절을 기다리고 있어요.",
+    "translation": "i'm waiting for the season that will return.",
+    "emoji": "🔙"
+  },
+  "때": {
+    "meaning": "time; when",
+    "usage": "a noun meaning 'time'; after a verb phrase, it marks when something happens.",
+    "example": "비가 올 때는 우산을 챙겨요.",
+    "translation": "i bring an umbrella when it rains.",
+    "emoji": "🕰️"
+  },
+  "그날도": {
+    "meaning": "that day too; that day as well",
+    "usage": "그날 means 'that day'; 도 adds 'too' or 'as well'.",
+    "example": "그날도 우리는 같은 카페에서 만났어요.",
+    "translation": "that day too, we met at the same cafe.",
+    "emoji": "📆"
+  },
+  "돌아온다": {
+    "meaning": "returns; comes back",
+    "usage": "the present declarative form of 돌아오다; in context it can describe a recurring or imminent return.",
+    "example": "봄이 오면 철새가 돌아온다.",
+    "translation": "when spring comes, migratory birds return.",
+    "emoji": "🕊️"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "mv": "https://www.youtube.com/watch?v=ZbO9PBdFRdc",
+  "lyric_source": "https://music.bugs.co.kr/track/6320796",
+  "album_notes": "https://music.bugs.co.kr/album/4122375",
+  "requested_times_seconds": [
+    19,
+    35,
+    98
+  ],
+  "selected_frames": [
+    {
+      "time_seconds": 18.999994,
+      "file": "mv-0019-frame.png",
+      "reason": "Direct gaze and slight smile; compared with 18 and 20 seconds."
+    },
+    {
+      "time_seconds": 35.0,
+      "file": "mv-0035-frame.png",
+      "reason": "Dandelion visible, open expression, extended hand; compared with 34, 34.75 and 36 seconds."
+    },
+    {
+      "time_seconds": 98.999998,
+      "file": "mv-0139-frame.png",
+      "reason": "Clear stationary face with moving train, approximately one second after request; compared with 97 and 98 seconds."
+    }
+  ],
+  "capture": {
+    "method": "Screenshots of paused official MV through browser UI; original video pixels retained. No generated faces or retouching.",
+    "frame_crop_pixels": {
+      "x": 75,
+      "y": 56,
+      "width": 965,
+      "height": 543
+    }
+  },
+  "analysis_boundary": "Lyric and visual close reading. Musical instrumentation and broad melody description sourced to distributor album notes. No direct audio listening, measured tempo, rhythmic transcription or exact melodic claims.",
+  "poster": "rescene-deja-vu-handwritten-phone-v1.png",
+  "dimensions": [
+    1080,
+    1920
+  ],
+  "layout": "Gaegu handwriting; large Korean, compact English, hand-drawn lyric corner marks; original screenshot collage.",
+  "alt_text": "A cream and sage-green handwritten portrait poster for RESCENE Deja Vu. Three tilted MV stills show a girl resting her face on her hand, a girl holding a dandelion in a field, and a girl standing beside a moving orange train. Korean lyric excerpts and small English translations connect breeze, scent, dream and recurring memory."
+}
